@@ -1,0 +1,24 @@
+{{- with resources.Get "css/main.css" }}
+  {{- if hugo.IsDevelopment }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<link rel='stylesheet' id='napoli-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C300%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A400%2C100%2C300%2C700%2C900%2C300italic%7CLibre+Baskerville%3A400%2C400i%2C700%7CLora%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700%2C100%7CUbuntu%3A400%2C300%2C500%2C700%7CDroid+Serif%3A400%2C400italic%2C700%2C700italic%7CGreat+Vibes%7CMontserrat%3A400%2C700%7CNoto+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%26subset%3Dlatin%2Clatin-ext&#038;ver=1478770331'
+      type='text/css' media='all' />
+<link rel='stylesheet' href='/css/font-icons/font-awesome.min.css' />
+<link rel='stylesheet' href='/css/font-icons/pe-icon-7-stroke.css' />
+<!-- STYLES -->
+<link rel='stylesheet' href='/css/libs/bootstrap.min.css' />
+<link rel='stylesheet' href='/css/libs/animsition.min.css' />
+<link rel='stylesheet' href='/css/libs/jquery.flipster.css' />
+<link rel='stylesheet' href='/css/libs/monthly.css' />
+<link rel='stylesheet' href='/css/libs/default-skin.css' />
+<link rel='stylesheet' href='/css/libs/justifiedGallery.min.css' />
+<link rel='stylesheet' href='/css/libs/magnific-popup.css' />
+<link rel='stylesheet' href='/css/libs/photoswipe.css' />
+<link rel='stylesheet' href='/css/libs/animate.css' />

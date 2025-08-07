@@ -1,0 +1,24 @@
+baseURL = 'https://stefanoj3.github.io/'
+languageCode = 'it-IT'
+title = 'Stefano Gabryel Fotografo | Pistoia, Lucca, Pisa, Firenze, Prato, Siena, Arezzo | Italia'
+theme = "napoli"
+
+
+[params]
+    # footer infos
+    piva = "02089670471"
+    iban = "IT17B3609201600524148650894"
+
+    # contacts
+    instagramLink = "https://www.instagram.com/stefanogfotografia/"
+    whatsappLink = "https://wa.me/message/T4667RVAVPEJB1"
+    email = "mailto:stefano.gabryel@gmail.com"
+    phone = "tel:+393513663017"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1

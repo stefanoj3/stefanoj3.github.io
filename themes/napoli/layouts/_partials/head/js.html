@@ -1,0 +1,59 @@
+{{ $scripts := slice
+(resources.Get "js/lib/jquery.min.js")
+(resources.Get "js/lib/jquery-migrate.min.js")
+(resources.Get "js/lib/jquery.animsition.min.js")
+(resources.Get "js/lib/jquery.countTo.js")
+(resources.Get "js/lib/jquery.countdown.min.js")
+(resources.Get "js/lib/jquery.easings.min.js")
+(resources.Get "js/lib/jquery.fitvids.js")
+(resources.Get "js/lib/jquery.flexslider-min.js")
+(resources.Get "js/lib/jquery.flexslider.js")
+(resources.Get "js/lib/jquery.flipster.min.js")
+(resources.Get "js/lib/jquery.gridrotator.js")
+(resources.Get "js/lib/jquery.justifiedGallery.min.js")
+(resources.Get "js/lib/jquery.magnific-popup.js")
+(resources.Get "js/lib/jquery.magnific-popup.min.js")
+(resources.Get "js/lib/jquery.matchHeight-min.js")
+(resources.Get "js/lib/jquery.matchHeight.js")
+(resources.Get "js/lib/jquery.mb.YTPlayer.src.js")
+(resources.Get "js/lib/jquery.multiscroll.min.js")
+(resources.Get "js/lib/jquery.sliphover.min.js")
+(resources.Get "js/lib/jquery.stellar.js")
+(resources.Get "js/lib/photoswipe-ui-default.min.js")
+(resources.Get "js/lib/photoswipe.min.js")
+(resources.Get "js/lib/scripts_gallery.js")
+(resources.Get "js/lib/shuffle.js")
+(resources.Get "js/lib/shuffle.min.js")
+(resources.Get "js/lib/isotope.pkgd.min.js")
+(resources.Get "js/lib/modernizr-2.6.2.min.js")
+(resources.Get "js/lib/modernizr.custom.js")
+(resources.Get "js/lib/monthly.js")
+(resources.Get "js/lib/date.js")
+(resources.Get "js/lib/filmstrim.gallery.js")
+(resources.Get "js/lib/foxlazy.js")
+(resources.Get "js/lib/idangerous.swiper.min.js")
+(resources.Get "js/lib/imagesloaded.pkgd.js")
+(resources.Get "js/lib/imagesloaded.pkgd.min.js")
+}}
+
+{{ $bundle := $scripts | resources.Concat "js/libraries.js" | minify | fingerprint }}
+
+<script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous"></script>
+
+
+{{- with resources.Get "js/script.js" }}
+  {{- $opts := dict
+    "minify" (not hugo.IsDevelopment)
+    "sourceMap" (cond hugo.IsDevelopment "external" "")
+    "targetPath" "js/main.js"
+  }}
+  {{- with . | js.Build $opts }}
+    {{- if hugo.IsDevelopment }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{- else }}
+      {{- with . | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

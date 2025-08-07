@@ -1,0 +1,14 @@
+<footer id="footer" class=" ">
+    <div class="container no-padd-md">
+        <div class="copyright">
+            Stefano Gabryel © {{ now.Year }}.
+            <p>P.Iva: {{ .Site.Params.piva }} // Iban: {{ .Site.Params.iban }}</p>
+        </div>
+        <div class="social-links">
+            <a href="{{ .Site.Params.instagramLink }}" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><i class="fa fa-whatsapp"></i></a>
+            <a href="{{ .Site.Params.email }}"><i class="fa fa-envelope"></i></a>
+            <a href="{{ .Site.Params.phone | safeURL  }}"><i class="fa fa-phone"></i></a>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,38 @@
+<div class="  ">
+    <div class="container no-padd">
+        <div class="row">
+            <div class="col-xs-12 no-padd-md no-padd-mob">
+                <header class="right-menu">
+                    <a href="/" class="logo">
+
+                        <span> Stefano Gabryel Fotografo</span>
+
+                    </a>
+                    <a href="#" class="mob-nav">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                    <nav id="topmenu">
+                        <ul id="menu-menu-1" class="menu">
+                            {{ range .Site.Menus.main }}
+                            <li class="menu-item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{ end }}
+
+
+                        </ul>
+
+                        <div class="napoli-top-social">
+                            <span class="social-icon fa fa-share-alt" aria-hidden="true"></span>
+                            <ul class="social ">
+                                <li><a href="{{ .Site.Params.instagramLink }}" aria-hidden="true" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="{{ .Site.Params.whatsappLink }}" aria-hidden="true" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                <li><a href="{{ .Site.Params.email }}" aria-hidden="true"><i class="fa fa-envelope"></i></a></li>
+                                <li><a href="{{ .Site.Params.phone  | safeURL }}" aria-hidden="true"><i class="fa fa-phone"></i></a></li>
+
+                            </ul>
+                        </div>
+                    </nav>
+                </header>
+            </div>
+        </div>
+    </div>
+</div>
