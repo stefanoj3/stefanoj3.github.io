@@ -1,5 +1,5 @@
 +++
-title = "contatti"
+title = "Contatti"
 url = "/contatti/"
 layout = "contatti"
 

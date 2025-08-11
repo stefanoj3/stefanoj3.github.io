@@ -17526,6 +17526,14 @@ i.no-float {
   color: #E1306C;
 }
 
+.envelope-yellow {
+  color: #FFC107; /* Amber yellow */
+}
+
+.phone-blue {
+  color: #1976D2; /* Royal blue */
+}
+
 .underline{
   text-decoration: underline;
 }
