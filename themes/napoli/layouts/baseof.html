@@ -2,6 +2,7 @@
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
 <head>
   {{ partial "head.html" . }}
+  {{ block "head-meta" . }}{{ end }}
 </head>
 <body class="animsition">
   <div class="main-wrapper ">

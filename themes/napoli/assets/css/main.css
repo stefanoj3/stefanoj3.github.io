@@ -2141,7 +2141,7 @@ body .hero-slider ul {
   color: #ffffff;
   font-weight: 400;
   letter-spacing: 1.12px;
-  max-width: 510px;
+  max-width: 810px;
 }
 
 .top-banner.center_content .descr {
@@ -17489,4 +17489,39 @@ body .blog {
 
 i.big-icon {
   font-size:60px;
+}
+
+div.services-page {
+  /* padding: top right bottom left; */
+
+  padding: 18px 20px 4px 20px;
+  min-height: 440px
+}
+div.services-page p {
+  margin-bottom: 17px;
+}
+
+#image-contatti {
+  width: 68%;
+  float: left;
+  height: 480px;
+  max-width: none;
+}
+
+@media (max-width: 992px) {
+  #image-contatti {
+    display:none;
+  }
+}
+
+i.no-float {
+  float:none;
+}
+
+i.whatsapp-green {
+  color: #25D366;
+}
+
+.underline{
+  text-decoration: underline;
 }

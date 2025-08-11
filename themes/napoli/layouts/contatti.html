@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row margin-lg-5t margin-lg-5b margin-sm-5b margin-xs-5b">
+        <div class="col-sm-12">
+            <div class="titles">
+                <h2 class="title">I miei contatti</h2>
+            </div>
+        </div>
+    </div>
+    <div class="hero">
+        <div class="row">
+            <div class="col-sm-12 ">
+                <img class="row">
+                    <img id="image-contatti" src="/photos/contatti.jpg">
+                    <div class="contact-info">
+                        <div class="info-box">
+                            <div class="details">
+                                <h5 class="title">Dove opero?</h5>
+                                <h6>Tutta Italia</h6>
+                            </div>
+                        </div>
+                        <div class="info-box">
+                            <div class="details">
+                                <h5 class="title">Telefono</h5><a href="tel:+393513663017"><span class="underline">+39 351 366 30 17</span></a>
+                            </div>
+                        </div>
+                        <div class="info-box">
+                            <div class="details">
+                                <h5 class="title">Email</h5>
+                                <a href="mailto:stefano.gabryel@gmail.com"><span class="__cf_email__ underline">stefano.gabryel@gmail.com</span></a>
+                            </div>
+                        </div>
+                        <div class="info-box">
+                            <div class="details">
+                                <h5 class="title">Whatsapp<i class="fa fa-whatsapp no-float whatsapp-green"></i></h5>
+                                <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><span class="__cf_email__ underline">Clicca qui per mandarmi un messaggio diretto.</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="row">&nbsp;</div>
+    </div>
+</div>
+{{ end }}
