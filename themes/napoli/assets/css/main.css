@@ -5731,7 +5731,7 @@ body .contact-info {
   color: #000;
   z-index: 888;
   display: block;
-  padding: 60px 70px 20px 70px;
+  padding: 40px 70px 20px 70px;
   background-color: #f2f2f2;
   height: 480px;
 }
@@ -5760,7 +5760,7 @@ body .contact-info {
 }
 
 .contact-info .details h5 {
-  font-size: 36px;
+  font-size: 30px;
   line-height: 40px;
   font-family: "BebasNeueRegular", sans-serif;
   color: #131313;
@@ -17518,8 +17518,12 @@ i.no-float {
   float:none;
 }
 
-i.whatsapp-green {
+.whatsapp-green {
   color: #25D366;
+}
+
+.instagram-pink {
+  color: #E1306C;
 }
 
 .underline{
