@@ -2307,7 +2307,7 @@ body .banner-list {
 /*---------------------------------------------------------------*/
 .about-section {
   position: relative;
-  min-height: 485px;
+  min-height: 535px;
   background-color: #f2f2f2;
 }
 
@@ -2321,7 +2321,7 @@ body .banner-list {
 
 .about-section .person-wrap {
   float: left;
-  height: 485px;
+  height: 535px;
   width: 500px;
   background-size: cover;
   background-position: center;
