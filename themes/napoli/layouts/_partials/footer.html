@@ -10,6 +10,9 @@
             {{ with .Site.GetPage "page" "privacy.md" }}
                 <p><a href="{{ .RelPermalink }}">Privacy Policy</a></p>
             {{ end }}
+            {{ with .Site.GetPage "page" "termini.md" }}
+                <p><a href="{{ .RelPermalink }}">Termini &amp; Condizioni</a></p>
+            {{ end }}
         </div>
         <div class="social-links">
             <a href="{{ .Site.Params.instagramLink }}" target="_blank"><i class="fa fa-instagram"></i></a>

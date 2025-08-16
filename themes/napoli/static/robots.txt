@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /privacy/
 Disallow: /cookie/
+Disallow: /termini-e-condizioni/
 Disallow: /admin/
 
 Sitemap: https://stefanogabryel.it/sitemap.xml
