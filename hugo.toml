@@ -3,6 +3,11 @@ languageCode = 'it-IT'
 title = 'Stefano Gabryel Fotografo | Pistoia, Lucca, Pisa, Firenze, Prato, Siena, Arezzo, Livorno | Italia'
 theme = "napoli"
 
+[pagination]
+  pagerSize = 500
+
+[permalinks]
+  posts = "/blog/:slug/"
 
 [params]
     # footer infos
@@ -22,3 +27,8 @@ theme = "napoli"
     name = "Home"
     url = "/"
     weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 3

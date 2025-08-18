@@ -4,5 +4,5 @@ url = "/chi-sono/"
 layout = "chi-sono"
 
 [menu.main]
-weight = 3
+weight = 4
 +++

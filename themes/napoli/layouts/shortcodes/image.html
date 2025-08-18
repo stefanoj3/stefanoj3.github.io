@@ -1,0 +1,6 @@
+{{ $image := .Page.Resources.GetMatch (.Get "src") }}
+{{ if $image }}
+<div class="text-center">
+    <img style="width:85%" src="{{ $image.Permalink }}" alt="{{ .Get "alt" }}" />
+</div>
+{{ end }}
