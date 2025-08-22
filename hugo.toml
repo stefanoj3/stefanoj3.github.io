@@ -1,6 +1,6 @@
 baseURL = 'https://stefanogabryel.it/'
 languageCode = 'it-IT'
-title = 'Stefano Gabryel Fotografo | Pistoia, Lucca, Pisa, Firenze, Prato, Siena, Arezzo, Livorno | Italia | Servizio fotografico per Hotel, Agriturismi, B&B, Aziende Vinicole.'
+title = 'Stefano Gabryel Fotografo | Pistoia, Lucca, Pisa, Firenze, Prato, Siena, Arezzo, Livorno, Grosseto, Arezzo, Siena | Italia | Servizio fotografico per Hotel, Agriturismi, B&B, Aziende Vinicole.'
 theme = "napoli"
 
 [pagination]
