@@ -1,5 +1,8 @@
 {{ define "head-meta" }}
 <meta name="description" content="{{ .Params.seoDescription }}">
+    {{ if .Params.homeAsCanonical }}
+        <link rel="canonical" href="{{ .Site.BaseURL }}" />
+    {{ end }}
 {{ end }}
 
 {{ define "main" }}
