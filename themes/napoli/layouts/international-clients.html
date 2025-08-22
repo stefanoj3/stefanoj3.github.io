@@ -1,0 +1,151 @@
+{{ define "head-meta" }}
+<meta name="description" content="Stefano Gabryel: photographer and marketer for restaurants, hotels, and B&Bs. I increase clients and visibility with digital strategies in Tuscany, specifically in Pistoia, Lucca, Pisa, Florence, Livorno, and Prato. I offer professional hotel photography services." />
+{{ end }}
+
+
+{{ define "main" }}
+<div class="container-fluid top-banner margin-lg-60b margin-xs-0b">
+    <img src="/photos/home-page-banner.jpg" class="s-img-switch" alt="Appennino Tosco-Emiliano durante blue hour" />
+    <div class="row home-header" >
+        <div class="col-sm-12">
+            <div class="content">
+                <div class="row text-light">
+                    <div class="col-xs-12">
+                        <h1 class="title">Stefano Gabryel</h1>
+                        <p class="descr">
+                            I help entrepreneurs in the hospitality (hotels, B&amp;Bs, agriturismi), restaurant, and wine sectors grow their business, attracting more clients through effective and consistent visual communication on the web and social media.
+                        </p>
+                        <p class="descr">
+                            Through the development of strategic and targeted marketing campaigns, I support your business's growth by increasing the number of acquired clients and optimizing the monetization of existing ones.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container no-padd">
+    <div class="hero">
+        <div class="row margin-lg-35b margin-sm-35b margin-xs-0b">
+            <div class="col-sm-12 ">
+                <div class="about-section">
+                    <div class="person-wrap s-back-switch"><img data-lazy-src="/photos/stefano-portrait-home.jpg" class="person s-img-switch" alt="Stefano Gabryel, Fotografo" /></div>
+                    <div class="content text-light about-details">
+                        <h6 class="subtitle">Photographer // Brand Identity // Storytelling // Marketing // Socials // Web // Strategy</h6>
+                        <h5 class="title">Who am I?</h5>
+                        <div class="descr">
+                            I am a professional who combines over 13 years of experience in the IT world as a software engineer and manager with a deep passion for photography and content creation.
+                        </div>
+                        <div class="descr">
+                            By combining my technical experience, visual creativity, and marketing skills, I create effective digital strategies that give your business a consistent and winning image, ensuring measurable growth.
+                        </div>
+                        {{ with .Site.GetPage "page" "contatti.md" }}
+                        <div class="button-wrap text-center"><a href="#contacts" class="a-btn-2 button">Would you like to talk about it? Feel free to reach out</a></div>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="single single-post">
+                <div class="single-content">
+                    <blockquote>
+                        <p>“Shooting teaches you to truly see: afterwards, you never stop doing it, not even without a camera.”</p>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container border-top">
+    <div class="row text-center">
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Customized Strategy</h3>
+                    <div class="text">I analyze your business, target audience, and market to build an image that not only appeals but also <b>converts visitors into clients.</b></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Complete and Integrated Services</h3>
+                    <div class="text"><b>Photography, video, social media, websites, and storytelling</b>: a single point of contact that ensures consistency and quality in every piece of content.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Increased Visibility</h3>
+                    <div class="text">Images and content designed to increase interest, improve online reputation, and <b>grow bookings and revenue.</b></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{{ partial "portfolio.html" (dict "ctx" . "customTitle" "Some of my photos") }}
+
+<div class="container clearfix no-padd portfolio-single-content margin-lg-30b border-bottom">
+    <div class="row margin-lg-35t margin-lg-40b margin-sm-50b margin-xs-40b">
+        <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12" >
+            <div class="titles">
+                <div class="text-center"><i class="fa fa-location-arrow big-icon"></i></div>
+                <h2 class="title">Where am I based? Where do I work?</h2>
+                <div style="padding-left: 12px; padding-right: 12px;">
+                    <p>My base is in Tuscany, between Pistoia and Lucca—a land I know deeply and that inspires my work every day. <b>Most of my clients are in Tuscany, but I work with businesses all over Italy.</b> Wherever there's an authentic story to tell, I'm there.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row margin-lg-5t margin-lg-5b margin-sm-5b margin-xs-5b">
+        <div class="col-sm-12">
+            <div class="titles">
+                <h2 id="contacts" class="title">My Contacts</h2>
+            </div>
+        </div>
+    </div>
+    <div class="hero">
+        <div class="row">
+            <div class="col-sm-12 ">
+                <img class="row">
+                <img id="image-contatti" src="/photos/contatti.jpg">
+                <div class="contact-info">
+                    <div class="info-box">
+                        <div class="details">
+                            <h5 class="title">Mobile</h5><a href="tel:+393513663017"><span class="underline">+39 351 366 30 17</span></a>
+                        </div>
+                    </div>
+                    <div class="info-box">
+                        <div class="details">
+                            <h5 class="title">Email</h5>
+                            <a href="mailto:stefano.gabryel@gmail.com"><span class="__cf_email__ underline">stefano.gabryel@gmail.com</span></a>
+                        </div>
+                    </div>
+                    <div class="info-box">
+                        <div class="details">
+                            <h5 class="title">Whatsapp<i class="fa fa-whatsapp no-float"></i></h5>
+                            <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><span class="__cf_email__ underline whatsapp-green">Click here to send me a direct message.</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div><p>&nbsp;</p></div>
+{{ end }}
