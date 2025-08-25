@@ -1,5 +1,5 @@
 +++
-date = '2025-08-24'
+date = '2025-08-23'
 draft = false
 title = "Online compriamo percezioni: perché la presentazione della tua struttura è fondamentale"
 slug = "online-compriamo-percezioni-presentazione-struttura"

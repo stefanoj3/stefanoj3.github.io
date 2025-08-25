@@ -1,5 +1,5 @@
 +++
-date = '2025-08-25'
+date = '2025-08-24'
 draft = false
 title = "Come raccontare un’esperienza di wine tasting ed enogastronomia per attrarre turisti e winelovers"
 slug = "raccontare-wine-tasting-esperienza-enogastronomica"
@@ -55,4 +55,4 @@ Con fotografie professionali, storytelling e una strategia mirata, la tua strutt
 
 
 
-{{< parliamone text="scopri come raccontare al meglio la tua esperienza enogastronomica con fotografie, contenuti e strategie che ti permettano di attrarre nuovi turisti e winelovers." >}}
+{{< parliamone title="Vuoi capire se posso aiutarti a promuovere la tua realtà?" text="scopri come raccontare al meglio la tua esperienza enogastronomica con fotografie, contenuti e strategie che ti permettano di attrarre nuovi turisti e winelovers." >}}

@@ -5,7 +5,13 @@
 
                 <div class="titles">
                     <div class="text-center"><i class="fa fa-envelope big-icon"></i></div>
-                    <h2 class="title">Ti va di parlarne?</h2>
+                    <h2 class="title">
+                        {{ with .Get "title" }}
+                            {{ . }}
+                        {{ else }}
+                            Ti va di parlarne?
+                        {{ end }}
+                        </h2>
                     <p><b>La consulenza iniziale è gratuita</b>:
                         {{ with .Get "text" }}
                             {{ . }}
