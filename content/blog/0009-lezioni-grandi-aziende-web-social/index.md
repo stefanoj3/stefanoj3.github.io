@@ -51,4 +51,4 @@ Con il giusto supporto professionale, puoi trasformare il web in uno strumento c
 
 
 
-{{< parliamone text="scopri insieme a me come costruire una presenza online su misura per la tua struttura, con strategie mirate e obiettivi concreti che portano risultati reali." >}}
+{{< parliamone title="Vuoi trasformare la tua presenza online in uno strumento redditizio?" text="scopri insieme a me come costruire una presenza online su misura per la tua struttura, con strategie mirate e obiettivi concreti che portano risultati reali." >}}

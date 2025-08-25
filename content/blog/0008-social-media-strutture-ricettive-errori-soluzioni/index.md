@@ -82,4 +82,4 @@ Con un uso consapevole dei social, la tua struttura può diventare non solo visi
 
 
 
-{{< parliamone text="scopri insieme a me come trasformare i social media in un canale che porta più visibilità, più clienti e più prenotazioni alla tua struttura." >}}
+{{< parliamone title="Vuoi trasformare i social media in uno strumento di prenotazioni?" text="scopri insieme a me come trasformare i social media in un canale che porta più visibilità, più clienti e più prenotazioni alla tua struttura." >}}

@@ -43,4 +43,4 @@ I metadati sono come il **biglietto da visita digitale** del tuo sito. Spesso so
 
 
 
-{{< parliamone text="scopri insieme a me come ottimizzare i metadati del tuo sito per trasformarli nel tuo alleato segreto su Google e attirare più ospiti nella tua struttura." >}}
+{{< parliamone title="Vuoi far emergere la tua struttura su Google grazie ai metadati?" text="scopri insieme a me come ottimizzare i metadati del tuo sito per trasformarli nel tuo alleato segreto su Google e attirare più ospiti nella tua struttura." >}}
