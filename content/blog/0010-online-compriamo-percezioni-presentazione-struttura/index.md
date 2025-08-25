@@ -31,4 +31,4 @@ Online non vendi camere, piatti o esperienze: vendi **emozioni e percezioni**.
 Ed è proprio questa percezione che fa la differenza tra un cliente che passa oltre e uno che decide di prenotare.
 
 
-{{< parliamone text="scopri come possiamo costruire insieme la giusta percezione online della tua struttura, con foto, contenuti e strategie pensate per conquistare i tuoi clienti ancora prima che arrivino da te." >}}
+{{< parliamone title="Vuoi far percepire al meglio la tua struttura online?" text="scopri come possiamo costruire insieme la giusta percezione online della tua struttura, con foto, contenuti e strategie pensate per conquistare i tuoi clienti ancora prima che arrivino da te." >}}
