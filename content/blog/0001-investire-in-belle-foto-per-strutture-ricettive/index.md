@@ -70,4 +70,4 @@ Un fotografo specializzato nel settore dell’ospitalità sa trasformare **stanz
 
 Investire in fotografia professionale **non è un costo, è un investimento** che si traduce in maggiore visibilità, più prenotazioni e clienti disposti a pagare di più.
 
-{{< parliamone text="insieme vedremo come immagini professionali, social curati, un sito accattivante e strategie di marketing mirate possono far emergere la tua struttura, aumentando visibilità, prenotazioni e valore percepito." >}}
+{{< parliamone title="Vuoi valorizzare la tua struttura con immagini che vendono?" text="insieme vedremo come immagini professionali, social curati, un sito accattivante e strategie di marketing mirate possono far emergere la tua struttura, aumentando visibilità, prenotazioni e valore percepito." >}}

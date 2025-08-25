@@ -76,4 +76,4 @@ Aggiornare il tuo sito non significa solo dargli una grafica nuova, ma **trasfor
 
 Ecco perché affidarsi a un esperto nella **realizzazione siti per hotel** è la scelta giusta per valorizzare la tua struttura e ottenere più prenotazioni dirette.
 
-{{< parliamone text="analizzerò il tuo sito e ti mostrerò come trasformarlo in un alleato strategico per aumentare prenotazioni, visibilità e margini." >}}
+{{< parliamone title="Vuoi trasformare il tuo sito in uno strumento che genera prenotazioni?" text="analizzerò il tuo sito e ti mostrerò come trasformarlo in un alleato strategico per aumentare prenotazioni, visibilità e margini." >}}
