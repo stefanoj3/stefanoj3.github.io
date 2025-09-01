@@ -5,7 +5,7 @@ title = "Perché investire in belle foto per la tua struttura ricettiva è fonda
 slug = "investire-in-belle-foto-per-strutture-ricettive"
 seoDescription = "Scopri perché investire in foto professionali per hotel, aziende vinicole, B&B e agriturismi è fondamentale: aumenta prenotazioni, valore percepito e visibilità online. L'opinione di un fotografo per hotel professionista."
 banner = "investire-in-belle-foto.jpg"
-homeAsCanonical = true
+homeAsCanonical = false
 +++
 
 Quando un potenziale cliente cerca un hotel, un B&B o un agriturismo, non può toccare con mano la tua struttura. Non può sentirne i profumi, provare i letti o assaggiare i piatti prima di prenotare. Quello che vede, quello che giudica, sono le **foto**.
