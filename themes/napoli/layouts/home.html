@@ -1,6 +1,33 @@
 {{ define "head-meta" }}
 <meta name="description" content="Stefano Gabryel: fotografo e marketer per ristorazione, hotel e B&B. Aumento clienti e visibilità con strategie digitali in Toscana, a Pistoia, Lucca, Pisa, Firenze, Livorno, Grosseto, Arezzo, Siena e Prato. Servizio fotografico per Hotel." />
 <link rel="canonical" href="{{ .Site.BaseURL }}" />
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Stefano Gabryel Fotografo",
+        "url": "https://stefanogabryel.it/",
+        "logo": "https://stefanogabryel.it/images/favicon.ico",
+        "sameAs": [
+            "https://www.instagram.com/stefanogfotografia/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Pistoia",
+            "addressRegion": "PT",
+            "postalCode": "51100",
+            "addressCountry": "IT"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+39-351-3663017",
+            "email": "stefano.gabryel@gmail.com",
+            "contactType": "CustomerService",
+            "availableLanguage": "Italian, English"
+        }
+    }
+</script>
 {{ end }}
 
 
