@@ -1,8 +1,37 @@
 {{ define "head-meta" }}
-<meta name="description" content="{{ .Params.seoDescription }}">
+    <meta name="description" content="{{ .Params.seoDescription }}">
     {{ if .Params.homeAsCanonical }}
         <link rel="canonical" href="{{ .Site.BaseURL }}" />
     {{ end }}
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": {{ .Permalink }}
+        },
+        "headline": {{ .Title }},
+    {{ with .Resources.GetMatch .Params.banner }}
+    "image": {{ .Permalink }},
+    {{ end }}
+
+    "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
+    "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
+        "author": {
+            "@type": "Person",
+            "name": "Stefano Gabryel"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Stefano Gabryel Fotografo",
+        },
+        "description": {{ .Params.seoDescription }},
+        "articleBody": {{ .Content | truncate 600 | plainify }}
+    }
+</script>
+
 {{ end }}
 
 {{ define "main" }}
