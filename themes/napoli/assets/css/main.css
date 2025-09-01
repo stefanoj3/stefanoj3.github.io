@@ -17560,3 +17560,14 @@ i.no-float {
   font-family: "BebasNeueBook";
   font-weight:bold;
 }
+
+/* Regola CSS per nascondere i pannelli di default, come farebbe Bootstrap */
+.faq-collapse {
+  display: none;
+  padding:10px;
+}
+
+.faq-button {
+  width: 100%;
+  cursor: pointer;
+}

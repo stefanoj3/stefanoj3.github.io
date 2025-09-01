@@ -57,3 +57,16 @@
     {{- end }}
   {{- end }}
 {{- end }}
+
+
+<script>
+<!-- FAQ Script -->
+  $(document).ready(function() {
+    $('body').on('click', '[data-toggle="collapse"]', function(e) {
+      e.preventDefault();
+      var targetId = $(this).data('target');
+      $('.faq-collapse').not(targetId).slideUp();
+      $(targetId).slideToggle();
+    });
+  });
+</script>
