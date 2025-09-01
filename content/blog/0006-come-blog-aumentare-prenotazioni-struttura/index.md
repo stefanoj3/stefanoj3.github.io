@@ -5,7 +5,7 @@ title = "Come un blog può aumentare le prenotazioni della tua struttura"
 slug = "come-blog-aumentare-prenotazioni-struttura"
 seoDescription = "Scopri perché un blog per hotel, B&B o agriturismi migliora la posizione su Google, aumenta visibilità, fidelizza clienti e porta più prenotazioni. Impara come creare un blog sito web efficace per la tua struttura."
 banner = "blog.png"
-homeAsCanonical = false
+homeAsCanonical = true
 +++
 
 Molti proprietari di hotel, B&B o agriturismi pensano: “Ho già il sito, serve davvero un blog?”  
