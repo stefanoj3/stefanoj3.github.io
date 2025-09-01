@@ -1,6 +1,44 @@
 {{ define "head-meta" }}
 <meta name="description" content="Chi sono? Un fotografo e marketer che opera in Toscana per ristoranti, hotel e cantine. Offro servizi a Pistoia, Lucca, Pisa, Firenze, Livorno, Grosseto, Arezzo, Siena e Prato per far crescere la tua attività." />
 <link rel="canonical" href="{{ .Site.BaseURL }}" />
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Stefano Gabryel",
+        "url": "https://stefanogabryel.it/",
+        "jobTitle": "Fotografo, Brand Identity & Web Marketing Specialist",
+        "description": "Un professionista che unisce esperienza nel mondo informatico con una profonda passione per la fotografia e la creazione di contenuti per il settore dell'accoglienza.",
+        "knowsAbout": [
+            "Fotografia",
+            "Web Marketing",
+            "Brand Identity",
+            "Storytelling",
+            "Ristorazione",
+            "Hotellerie",
+            "B&B",
+            "Agriturismi",
+            "Aziende Vinicole",
+            "Escursionismo",
+            "Programmazione",
+            "PHP",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Golang"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Pistoia",
+            "addressRegion": "PT",
+            "addressCountry": "IT"
+        },
+        "sameAs": [
+            "https://www.instagram.com/stefanogfotografia/"
+        ]
+    }
+</script>
 {{ end }}
 
 {{ define "main" }}
