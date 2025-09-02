@@ -1,0 +1,23 @@
+<div class="container clearfix no-padd">
+    <div class="row gallery-single margin-lg-10b margin-xs-0b">
+        <div class="izotope-container">
+            <div class="grid-sizer"></div>
+
+            {{- $lines := split (trim .Inner "\n") "\n" -}}
+            {{- range $lines }}
+            {{- $parts := split . "|" -}}
+            <div class="col-md-3 col-xs-12 col-sm-6 margin-lg-30b item-single">
+                <a href="big{{ index $parts 0 | relURL }}" class="gallery-item" title="{{ index $parts 1 }}">
+                    <img src="small{{ index $parts 0 | relURL }}" class="s-img-switch" alt="{{ index $parts 1 }}">
+                    <div class="info-content">
+                        <div class="vertical-align">
+                            <h5>{{ index $parts 1 }}</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {{- end }}
+
+        </div>
+    </div>
+</div>

@@ -11,6 +11,15 @@ stefanogabryel.it
 ```
 
 ```toml
-homeAsCanonical = false
+homeAsCanonical = true
 ```
+
+```md
+{{< gallery >}}
+picture1.jpg|Alt Text
+picture2.jpg|Alt Text
+{{< /gallery >}}
+```
+
+See `content/blog/0017-coerenza-colori-foto-strutture-ricettive` for example usage.
 
