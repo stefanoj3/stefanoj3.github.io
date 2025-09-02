@@ -1,3 +1,31 @@
+{{ define "head-meta" }}
+<meta name="description" content="Esplora il mio blog per approfondire temi di fotografia, SEO, marketing, e scoprire consigli unici sull'accoglienza e il territorio. Lasciati ispirare dalle mie guide e dai miei progetti professionali.">
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Blog | Stefano Gabryel Fotografo",
+        "url": "https://stefanogabryel.it/blog/",
+        "description": "Esplora il mio blog per approfondire temi di fotografia, SEO, marketing, e scoprire consigli unici sull'accoglienza e il territorio. Lasciati ispirare dalle mie guide e dai miei progetti professionali.",
+        "hasPart": [
+            {{- range $i, $p := .Paginator.Pages }}
+            {
+                "@type": "BlogPosting",
+                "name": {{ $p.Title }},
+                "headline": {{ $p.Title }},
+            "url": {{ $p.Permalink }},
+            {{ with .Resources.GetMatch .Params.banner }}
+            "image": [{{ .Permalink }}]
+            {{ end }}
+        }{{ if lt (add $i 1) (len $.Paginator.Pages) }},{{ end }}
+            {{- end }}
+        ]
+    }
+</script>
+
+{{ end }}
+
 {{ define "main" }}
 <div class="blog animsition">
     <div class="main-wrapper">
