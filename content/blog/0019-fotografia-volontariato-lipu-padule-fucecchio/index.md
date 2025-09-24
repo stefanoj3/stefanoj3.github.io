@@ -46,7 +46,7 @@ ESS01917.jpg|Cicogna Padule di Fucecchio
 ESS02064.jpg|Cicogna Padule di Fucecchio
 {{< /gallery >}}
 
-
+Edit: [qui](https://riservafucecchio.it/dalle-ferite-alla-liberta-liberata-cicogna-nella-riserva-naturale-del-padule-di-fucecchio/) è possibile trovare l'articolo ufficiale sul sito del Padule di Fucecchio/Lipu.
 
 ---
 
