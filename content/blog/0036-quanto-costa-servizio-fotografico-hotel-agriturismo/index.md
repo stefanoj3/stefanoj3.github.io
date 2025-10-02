@@ -90,17 +90,79 @@ Elementi che spesso creano malintesi:
 
 Quando ricevi un preventivo, fai queste domande:
 
-**Sul servizio:**
+### Sul servizio
 - Quante ore on-site sono incluse?
 - Quante foto finali riceverò?
 - Il sopralluogo preliminare è incluso?
 - Quanto tempo richiede la consegna?
 
-**Sulla post-produzione:**
+### Sulla post-produzione
 - Che tipo di editing è incluso?
 - Le foto saranno ottimizzate per web?
 - Sono incluse versioni per social media?
 
-**Sui diritti:**
+### Sui diritti
 - Posso usare le foto liberamente per tutti i canali?
 - Ci sono limitazioni temporali?
+
+### Sull'esperienza
+- Ha esperienza specifica nel settore hospitality?
+- Può mostrarmi portfolio di strutture simili?
+- Include consulenza strategica sul posizionamento?
+
+## Il vero costo: non investire affatto
+
+Ecco la domanda che dovresti farti: **quanto ti costa NON avere foto professionali?**
+
+Se ogni mese perdi anche solo 5 prenotazioni perché la tua presentazione online non convince, e ogni prenotazione vale in media 200€, stai perdendo 1.000€ al mese. 12.000€ all'anno.
+
+Un servizio fotografico da 2.000€ si ripaga in meno di due mesi. E continua a lavorare per te per anni.
+
+Marc Silber in "Advancing Your Photography" dice che **le fotografie efficaci non documentano semplicemente, creano desiderio**. E il desiderio si trasforma in prenotazioni.
+
+## Non tutti i fotografi offrono lo stesso valore
+
+La differenza tra un fotografo generico e uno specializzato in hospitality non è solo tecnica. È strategica.
+
+Io porto oltre 13 anni di esperienza in tecnologia, marketing e gestione di progetti complessi. Quando fotografo una struttura, non penso solo a "fare belle foto".
+
+### Penso a:
+- Quali immagini convertono meglio sul tuo target specifico
+- Come integrare foto in una strategia di marketing completa
+- Come ottimizzare ogni immagine per SEO e social
+- Come costruire un'identità visiva coerente che rafforza il brand
+
+Non vendo solo fotografie. Offro uno strumento di business che aumenta prenotazioni e fatturato.
+
+## L'investimento giusto per la tua struttura
+
+Non esiste un prezzo "giusto" uguale per tutti. Esiste l'investimento giusto **per la tua situazione specifica**:
+
+**Se hai un B&B familiare con budget limitato:** Un servizio medio-base può essere il punto di partenza perfetto per migliorare immediatamente la tua presenza online.
+
+**Se hai una struttura consolidata che vuole crescere:** Un investimento medio-alto ti dà strumenti professionali per competere efficacemente e giustificare prezzi più alti.
+
+**Se puntai al segmento premium:** Solo un servizio top, con approccio strategico completo, ti darà l'immagine necessaria per attrarre e convertire clienti high-spending.
+
+L'importante è che il livello del servizio sia **coerente con i tuoi obiettivi di business**, non con quanto "dovresti" spendere secondo una cifra astratta.
+
+## Fotografia come parte di una strategia più ampia
+
+Un ultimo punto importante: le foto professionali sono fondamentali, ma funzionano meglio quando integrate in una strategia completa.
+
+Foto eccellenti + sito datato = risultati limitati
+Foto eccellenti + sito ottimizzato + social curati + marketing strategico = risultati moltiplicati
+
+Per questo il mio approccio non si ferma mai alla sola fotografia. Valuto sempre come le immagini si inseriscono nel quadro più ampio della tua comunicazione digitale.
+
+## La trasparenza fa la differenza
+
+Molti fotografi sono vaghi sui prezzi perché temono di perdere clienti. Io credo nella trasparenza.
+
+Quando mi contatti, ti farò domande specifiche sulla tua struttura, sui tuoi obiettivi, sul tuo budget. E ti darò un preventivo chiaro, dettagliato, senza sorprese.
+
+Saprai esattamente cosa riceverai, quando lo riceverai, e come potrai usarlo per far crescere il tuo business.
+
+Perché un investimento in fotografia professionale deve essere una decisione consapevole, non un salto nel buio.
+
+{{< parliamone title="Vuoi un preventivo trasparente e personalizzato per la tua struttura?" text="ti farò domande specifiche sui tuoi obiettivi e ti preparerò un preventivo dettagliato che spiega esattamente cosa riceverai, come le foto si integreranno nella tua strategia di marketing, e quale ritorno puoi aspettarti dall'investimento." >}}
