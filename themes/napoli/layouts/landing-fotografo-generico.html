@@ -1,0 +1,85 @@
+{{ define "main" }}
+<div class="container no-padd">
+    <div class="hero">
+        <div class="row margin-lg-35b margin-sm-35b margin-xs-0b">
+            <div class="col-sm-12 ">
+                <div class="about-section">
+                    <div class="person-wrap s-back-switch"><img data-lazy-src="/photos/stefano-portrait-home.jpg" class="person s-img-switch" alt="Stefano Gabryel, Fotografo" /></div>
+                    <div class="content text-light about-details">
+                        <h5 class="title">Cerchi un esperto che possa promuovere i tuoi eventi e/o la tua impresa?</h5>
+                        <div class="descr">
+                            <b>Mi chiamo Stefano Gabryel e aiuto imprenditori a raccontare la propria storia nel modo più autentico ed efficace.</b>
+                        </div>
+                        <div class="descr">
+                            Valorizzo l’identità unica di ogni attività attraverso immagini e parole, creando una presenza online solida e orientata a generare risultati concreti: aumentare il tuo fatturato.
+                        </div>
+                        <div class="descr">
+                            <b>Curo la tua immagine online</b>: dalle foto, al sito internet, ai canali social.
+                        </div>
+                        {{ with .Site.GetPage "page" "contatti.md" }}
+                        <div class="button-wrap text-center"><a href="{{ .RelPermalink }}" class="a-btn-2 button">Vuoi parlarne? Contattami</a></div>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row text-center">
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Strategia su Misura</h3>
+                    <div class="text">Analizzo la tua attività, il target e il mercato per costruire un’immagine che non solo piace, ma <b>converte visitatori in clienti.</b></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Servizi Completi e Integrati</h3>
+                    <div class="text"><b>Fotografia, video, social media, siti web e storytelling</b>: un unico referente che assicura coerenza e qualità in ogni contenuto.</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6 col-lg-4 col-md-4 col-xs-12  margin-lg-50t margin-sm-25t">
+            <div class="simple-details">
+                <div class="content">
+                    <h3 class="title small-title">Aumento di Visibilità</h3>
+                    <div class="text">Immagini e contenuti studiati per aumentare l’interesse, migliorare la reputazione online e <b>far crescere il tuo fatturato.</b></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "portfolio.html" . }}
+
+{{ partial "dove-opero.html" . }}
+
+{{ partial "faq.html" . }}
+
+<div class="container clearfix no-padd portfolio-single-content margin-xs-0b">
+    <div class="row">
+        <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12">
+            <div class="services margin-xs-0b">
+
+                <div class="titles">
+                    <h2 class="title">Cerchi un professionista a 360 gradi?</h2>
+                    <p><b>Fotografo, content creator e web expert:</b> ti aiuto a costruire un’immagine online che racconta chi sei — e conquista i tuoi clienti.</p>
+                    <p><b>Il mio obiettivo? Risultati concreti:</b> ti affianco nel tempo con strategie su misura che aumentano visibilità, pubblico e fatturato.</p>
+
+                    {{ with .Site.GetPage "page" "contatti.md" }}
+                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">Parliamone</a></div>
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
