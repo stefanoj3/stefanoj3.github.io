@@ -5,38 +5,46 @@
 <script type="application/ld+json">
     {
         "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "Stefano Gabryel",
-        "url": "https://stefanogabryel.it/",
-        "jobTitle": "Fotografo, Brand Identity & Web Marketing Specialist",
-        "description": "Un professionista che unisce esperienza nel mondo informatico con una profonda passione per la fotografia e la creazione di contenuti per il settore dell'accoglienza.",
-        "knowsAbout": [
-            "Fotografia",
-            "Web Marketing",
-            "Brand Identity",
-            "Storytelling",
-            "Ristorazione",
-            "Hotellerie",
-            "B&B",
-            "Agriturismi",
-            "Aziende Vinicole",
-            "Escursionismo",
-            "Programmazione",
-            "PHP",
-            "HTML",
-            "CSS",
-            "Javascript",
-            "Golang"
-        ],
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Pistoia",
-            "addressRegion": "PT",
-            "addressCountry": "IT"
-        },
-        "sameAs": [
-            "https://www.instagram.com/stefanogfotografia/"
-        ]
+        "@type": "AboutPage",
+        "url": {{ .Permalink }},
+        "name": "La storia e le competenze di Stefano Gabryel",
+        "description": "Pagina ufficiale che descrive l'unione tra fotografia, web marketing e brand identity offerta da Stefano Gabryel, con focus sui settori dell'accoglienza, B&B, Agriturismi e Ristorazione.",
+        "mainEntity": {
+            "@type": "Person",
+            "name": "Stefano Gabryel",
+            "url": "https://stefanogabryel.it/",
+            "jobTitle": "Fotografo, Brand Identity & Web Marketing Specialist",
+            "description": "Un professionista che unisce esperienza nel mondo informatico con una profonda passione per la fotografia e la creazione di contenuti per il settore dell'accoglienza.",
+            "knowsAbout": [
+                "Fotografia",
+                "Web Marketing",
+                "Brand Identity",
+                "Storytelling",
+                "Ristorazione",
+                "Hotellerie",
+                "B&B",
+                "Fotografia Eventi",
+                "Fotografia Architettura"
+                "Agriturismi",
+                "Aziende Vinicole",
+                "Escursionismo",
+                "Programmazione",
+                "PHP",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Golang"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Pistoia",
+                "addressRegion": "PT",
+                "addressCountry": "IT"
+            },
+            "sameAs": [
+                "https://www.instagram.com/stefanogfotografia/"
+            ]
+        }
     }
 </script>
 {{ end }}
