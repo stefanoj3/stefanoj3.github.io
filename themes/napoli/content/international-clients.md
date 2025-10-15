@@ -1,5 +1,6 @@
 +++
-title = "International Clients 🇬🇧"
+title = "Hotel Photography, Marketing, Websites, Socials, Photographer for Agriturismo"
+linkTitle = "English 🇬🇧"
 url = "/international-clients/"
 layout = "international-clients"
 lang = "en"
