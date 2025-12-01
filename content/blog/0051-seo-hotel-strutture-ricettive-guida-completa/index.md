@@ -4,7 +4,7 @@ draft = false
 title = "SEO per hotel e strutture ricettive: la guida completa in 5 mosse"
 slug = "seo-hotel-strutture-ricettive-guida-completa"
 seoDescription = "Guida completa alla SEO per hotel, B&B e agriturismi: dalle basi del posizionamento Google alle tecniche avanzate per aumentare visibilità e prenotazioni organiche."
-banner = "seo-hotel-strutture-ricettive-guida-completa.png"
+banner = "seo-hotel-strutture-ricettive-guida-completa.jpg"
 +++
 
 Hai un sito bellissimo. Foto professionali, descrizioni curate, booking engine integrato. Eppure quando cerchi su Google "hotel [tua zona]", non ti trovi. O peggio: sei in terza pagina, dove nessuno arriva mai.

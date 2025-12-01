@@ -4,7 +4,7 @@ draft = false
 title = "Zero waste hospitality: piccole azioni che fanno grande differenza"
 slug = "zero-waste-hospitality"
 seoDescription = "Scopri come applicare lo zero waste hospitality nella tua struttura ricettiva: piccole azioni sostenibili che fanno grande differenza per clienti e ambiente."
-banner = "zero-waste-hospitality.png"
+banner = "zero-waste-hospitality.jpg"
 +++
 
 Il settore dell’ospitalità sta vivendo un cambiamento profondo: sempre più viaggiatori scelgono **hotel, B&B e agriturismi che abbracciano la sostenibilità**. In particolare, il movimento **zero waste hospitality** sta guadagnando terreno, dimostrando che anche piccole azioni possono avere un impatto enorme.

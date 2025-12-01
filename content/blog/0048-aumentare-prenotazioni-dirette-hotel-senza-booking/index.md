@@ -4,7 +4,7 @@ draft = false
 title = "Come aumentare le prenotazioni dirette del tuo hotel senza dipendere da Booking"
 slug = "aumentare-prenotazioni-dirette-hotel-senza-booking"
 seoDescription = "Scopri strategie concrete per aumentare le prenotazioni dirette del tuo hotel, B&B o agriturismo riducendo la dipendenza da Booking e OTA: risparmia commissioni e costruisci relazioni con i clienti."
-banner = "aumentare-prenotazioni-dirette-hotel-senza-booking.png"
+banner = "aumentare-prenotazioni-dirette-hotel-senza-booking.jpg"
 +++
 
 Ogni volta che arriva una prenotazione da Booking, festeggi. Camera riempita, incasso assicurato. Poi guardi l'estratto conto e scopri che il 15-25% di quella prenotazione se n'è andato in commissioni.

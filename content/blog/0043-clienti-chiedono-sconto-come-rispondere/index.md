@@ -4,7 +4,7 @@ draft = false
 title = "Perché i clienti chiedono lo sconto (e come rispondere senza svalutarti)"
 slug = "clienti-chiedono-sconto-come-rispondere"
 seoDescription = "Scopri perché i clienti chiedono sconti a hotel, B&B e agriturismi e come rispondere mantenendo il valore percepito della tua struttura senza svalutarti."
-banner = "clienti-chiedono-sconto-come-rispondere.png"
+banner = "clienti-chiedono-sconto-come-rispondere.jpg"
 +++
 
 "Buongiorno, ho visto la vostra struttura. Fate uno sconto?"

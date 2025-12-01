@@ -4,7 +4,7 @@ draft = false
 title = "Perché il cervello umano ama le storie (e come usarlo nel marketing)"
 slug = "perche-il-cervello-ama-le-storie-marketing"
 seoDescription = "Perché il cervello umano ama le storie e come usarlo nel marketing: scopri come lo storytelling influenza emozioni, memoria e decisioni d'acquisto."
-banner = "storytelling-marketing.png"
+banner = "storytelling-marketing.jpg"
 +++
 
 Quando pensi a un brand che ti ha colpito, difficilmente ricordi un dato tecnico o un elenco di caratteristiche. Quello che resta impresso è quasi sempre **una storia**.  

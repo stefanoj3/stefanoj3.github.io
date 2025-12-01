@@ -4,7 +4,7 @@ draft = false
 title = "La tua struttura ha un'identità visiva o solo un logo? La differenza che fa la differenza"
 slug = "identita-visiva-o-solo-logo-differenza"
 seoDescription = "Scopri perché avere solo un logo non basta per hotel, B&B e agriturismi. L'identità visiva completa è ciò che trasforma una struttura in un brand riconoscibile e memorabile."
-banner = "identita-visiva-o-solo-logo-differenza.png"
+banner = "identita-visiva-o-solo-logo-differenza.jpg"
 +++
 
 Hai un logo per la tua struttura? Ottimo. Ma ora rispondi a questa domanda: quando un cliente guarda il tuo sito, i tuoi social e i tuoi materiali promozionali, **riconosce immediatamente che appartengono tutti alla stessa struttura?**

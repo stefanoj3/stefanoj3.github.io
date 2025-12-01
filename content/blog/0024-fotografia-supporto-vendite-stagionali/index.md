@@ -4,7 +4,7 @@ draft = false
 title = "Come la fotografia può supportare le vendite stagionali"
 slug = "fotografia-supporto-vendite-stagionali"
 seoDescription = "Scopri come la fotografia può supportare le vendite stagionali di hotel, B&B, agriturismi e aziende vinicole, aumentando prenotazioni e interesse dei clienti nei momenti chiave dell'anno."
-banner = "fotografia-vendite-stagionali.png"
+banner = "fotografia-vendite-stagionali.jpg"
 +++
 
 Ogni stagione porta nuove opportunità per strutture ricettive e aziende vinicole: eventi, offerte, degustazioni, weekend tematici. Ma come fare in modo che i clienti percepiscano il valore e siano invogliati a prenotare o acquistare proprio in quel periodo? La risposta spesso è **la fotografia professionale**.

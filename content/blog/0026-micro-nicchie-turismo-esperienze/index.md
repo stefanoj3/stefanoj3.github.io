@@ -4,7 +4,7 @@ draft = false
 title = "Il potere delle micro-nicchie: attirare clienti in cerca di esperienze particolari"
 slug = "micro-nicchie-turismo-esperienze"
 seoDescription = "Scopri come il potere delle micro-nicchie nel turismo può aiutare hotel, B&B, agriturismi e cantine ad attirare clienti in cerca di esperienze particolari e autentiche."
-banner = "micro-nicchie-turismo.png"
+banner = "micro-nicchie-turismo.jpg"
 +++
 
 Il turismo non è più soltanto **prenotare una camera e visitare una città**. Sempre più viaggiatori cercano esperienze particolari, uniche, in linea con le loro passioni e interessi specifici. Qui entra in gioco il **potere delle micro-nicchie**, una strategia che permette di attirare clienti altamente motivati e pronti a spendere di più per vivere qualcosa che sentono davvero “su misura” per loro.

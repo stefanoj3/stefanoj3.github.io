@@ -4,7 +4,7 @@ draft = false
 title = "La tua identità di brand è coerente? Come comunicarla senza confondere il cliente"
 slug = "identita-brand-coerente-come-creare-brand-identity"
 seoDescription = "La tua comunicazione online è confusa? Scopri come creare brand identity coerente per hotel, B&B e agriturismi e attirare più clienti con un’immagine professionale."
-banner = "brand-identity.png"
+banner = "brand-identity.jpg"
 homeAsCanonical = false
 +++
 

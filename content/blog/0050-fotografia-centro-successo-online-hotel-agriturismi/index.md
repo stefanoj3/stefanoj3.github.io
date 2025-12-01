@@ -4,7 +4,7 @@ draft = false
 title = "La fotografia al centro del tuo successo online: storie da hotel e agriturismi"
 slug = "fotografia-centro-successo-online-hotel-agriturismi"
 seoDescription = "Scopri come la fotografia professionale trasforma la visibilità e le prenotazioni per hotel, B&B e agriturismi: esempi reali e strategie collegate."
-banner = "fotografia-centro-successo-online-hotel-agriturismi.png"
+banner = "fotografia-centro-successo-online-hotel-agriturismi.jpg"
 +++
 
 Ti sei mai chiesto: _“Come posso usare le foto per far crescere davvero il mio business turistico?”_ In un mondo digitale dove le immagini sono il primo contatto con i potenziali clienti, ignorare la potenza della fotografia significa lasciare sul tavolo opportunità preziose. Per hotel, B&B, agriturismi e aziende vinicole, una strategia visiva solida non è un optional, ma il motore che guida visibilità, fiducia e prenotazioni.

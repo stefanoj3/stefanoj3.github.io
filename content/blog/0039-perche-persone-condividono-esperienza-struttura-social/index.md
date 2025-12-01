@@ -4,7 +4,7 @@ draft = false
 title = "Perché le persone condividono (o non condividono) la loro esperienza nella tua struttura"
 slug = "perche-persone-condividono-esperienza-struttura-social"
 seoDescription = "Scopri i trigger psicologici che spingono gli ospiti a condividere (o meno) la loro esperienza in hotel, B&B e agriturismi sui social. Strategie pratiche per aumentare la condivisione organica."
-banner = "perche-persone-condividono-esperienza-struttura-social.png"
+banner = "perche-persone-condividono-esperienza-struttura-social.jpg"
 +++
 
 Hai mai notato che alcuni hotel, ristoranti e agriturismi vengono taggati centinaia di volte su Instagram dai loro ospiti, mentre altri rimangono praticamente invisibili sui social pur avendo clienti soddisfatti?

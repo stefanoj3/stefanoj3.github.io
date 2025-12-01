@@ -4,7 +4,7 @@ draft = false
 title = "Come rispondere alle recensioni negative senza sembrare sulla difensiva (con esempi concreti)"
 slug = "rispondere-recensioni-negative-hotel-senza-essere-difensivi"
 seoDescription = "Guida pratica per gestire recensioni negative di hotel, B&B e agriturismi: esempi concreti, errori da evitare e strategie efficaci che trasformano critiche in opportunità."
-banner = "rispondere-recensioni-negative-hotel-senza-essere-difensivi.png"
+banner = "rispondere-recensioni-negative-hotel-senza-essere-difensivi.jpg"
 +++
 
 È lunedì mattina. Apri il profilo Booking della tua struttura e la vedi: una recensione a due stelle. Il cliente si lamenta del rumore, della colazione, del wifi lento. La prima reazione? Voglia di rispondere punto per punto, giustificarti, spiegare perché ha torto.

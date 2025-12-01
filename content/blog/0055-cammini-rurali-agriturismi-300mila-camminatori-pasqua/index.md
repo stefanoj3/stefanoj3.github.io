@@ -4,7 +4,7 @@ draft = false
 title = "Cammini rurali e agriturismi: come intercettare i 300.000 camminatori della Pasqua"
 slug = "cammini-rurali-agriturismi-300mila-camminatori-pasqua"
 seoDescription = "Scopri come posizionare il tuo agriturismo per i 300.000 camminatori dei cammini rurali durante Pasqua: strategie, servizi e comunicazione per intercettare questo mercato in crescita."
-banner = "cammini-rurali-agriturismi-300mila-camminatori-pasqua.png"
+banner = "cammini-rurali-agriturismi-300mila-camminatori-pasqua.jpg"
 +++
 
 Pasqua 2025 ha segnato un nuovo record: oltre 300.000 persone hanno scelto di esplorare il territorio a piedi, in bici o a cavallo durante le festività pasquali. Non turisti qualsiasi: camminatori, ciclisti, persone alla ricerca di esperienza slow, contatto con la natura, autenticità.

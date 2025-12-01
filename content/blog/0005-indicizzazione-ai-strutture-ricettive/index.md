@@ -4,7 +4,7 @@ draft = false
 title = "La tua struttura è pronta per le ricerche AI? Come farsi trovare dai viaggiatori del futuro"
 slug = "indicizzazione-ai-strutture-ricettive"
 seoDescription = "Sempre più persone utilizzano intelligenza artificiale per cercare hotel, B&B e agriturismi. Scopri come preparare la tua struttura per l’indicizzazione AI e aumentare visibilità, prenotazioni e margini."
-banner = "indicizzazione-ai.png"
+banner = "indicizzazione-ai.jpg"
 homeAsCanonical = false
 +++
 

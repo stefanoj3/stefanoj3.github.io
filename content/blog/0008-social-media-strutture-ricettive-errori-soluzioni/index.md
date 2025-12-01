@@ -4,7 +4,7 @@ draft = false
 title = "Social media per strutture ricettive: errori comuni e soluzioni efficaci"
 slug = "social-media-strutture-ricettive-errori-soluzioni"
 seoDescription = "Scopri come usare i social media per hotel, B&B e agriturismi evitando gli errori più comuni. Strategie pratiche e soluzioni per aumentare visibilità e prenotazioni. L'importanza di lavorare con un esperto in social media marketing per hotel, B&B, agriturismi e aziende vinicole."
-banner = "social-media-marketing.png"
+banner = "social-media-marketing.jpg"
 +++
 
 Oggi i social media sono una vetrina fondamentale per hotel, B&B e agriturismi.  

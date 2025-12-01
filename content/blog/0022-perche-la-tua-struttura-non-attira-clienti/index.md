@@ -4,7 +4,7 @@ draft = false
 title = "Perché il “fai da te” sui social costa più che assumere un professionista"
 slug = "fai-da-te-social-costo-professionista"
 seoDescription = "Scopri perché gestire i social da soli può costare più che affidarsi a un professionista. Strategie, coerenza visiva e tempo risparmiato per hotel, B&B, agriturismi e aziende vinicole."
-banner = "fai-da-te-social.png"
+banner = "fai-da-te-social.jpg"
 +++
 
 Molti imprenditori nel settore dell’ospitalità e del vino pensano di poter gestire da soli i social media: una foto qui, un post là, un po’ di copy e hashtag. Ma la realtà è diversa. Quello che sembra un risparmio immediato spesso **si trasforma in un costo molto più alto nel tempo**.

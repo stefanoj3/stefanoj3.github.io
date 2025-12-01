@@ -4,7 +4,7 @@ draft = false
 title = "Vendita prodotti online dall'agriturismo: il 60% lo fa già (e tu?)"
 slug = "vendita-prodotti-online-agriturismo-60-percento"
 seoDescription = "Scopri perché il 60% degli agriturismi vende già prodotti online e come avviare un e-commerce agricolo: dalla normativa alle strategie per trasformare ospiti in clienti fedeli."
-banner = "vendita-prodotti-online-agriturismo-60-percento.png"
+banner = "vendita-prodotti-online-agriturismo-60-percento.jpg"
 +++
 
 Il tuo ospite assaggia la tua marmellata a colazione. È buonissima. Vorrebbe comprarla. Tu gli dici "certo, ne ho qualche vasetto in cantina". Lui ne compra due, torna a casa, finisce la marmellata e... non sa come riordinarla.

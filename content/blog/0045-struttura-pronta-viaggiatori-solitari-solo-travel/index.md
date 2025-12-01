@@ -4,7 +4,7 @@ draft = false
 title = "La tua struttura è pronta per i viaggiatori solitari? Il boom del solo travel e cosa cercano"
 slug = "struttura-pronta-viaggiatori-solitari-solo-travel"
 seoDescription = "Scopri come attrarre i viaggiatori solitari: un mercato in crescita che cerca esperienze autentiche. Cosa offrire in hotel, B&B e agriturismi per intercettare il boom del solo travel."
-banner = "struttura-pronta-viaggiatori-solitari-solo-travel.png"
+banner = "struttura-pronta-viaggiatori-solitari-solo-travel.jpg"
 +++
 
 Sempre più persone viaggiano da sole. Non per necessità, ma per scelta. Nel 2025, il 62% dei viaggiatori solitari pianifica tra 2 e 5 viaggi all'anno, e questo numero continua a crescere.

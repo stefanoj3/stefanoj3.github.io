@@ -4,7 +4,7 @@ draft = false
 title = "Workation: come attrarre chi combina lavoro e vacanza"
 slug = "workation-come-attrarre-chi-combina-lavoro-e-vacanza"
 seoDescription = "Scopri come attrarre ospiti che scelgono la workation: unire lavoro e vacanza è un trend in crescita. Idee e strategie per hotel, agriturismi e B&B."
-banner = "workation-come-attrarre.png"
+banner = "workation-come-attrarre.jpg"
 +++
 
 Negli ultimi anni è nato un nuovo modo di viaggiare: la **workation**. La parola nasce dall’unione di *work* e *vacation* e indica la possibilità di lavorare da remoto mentre si soggiorna in una località turistica.  

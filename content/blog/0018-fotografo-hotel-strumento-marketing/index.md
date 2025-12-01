@@ -4,7 +4,7 @@ draft = false
 title = "Perché un fotografo hotel non scatta solo foto ma crea un vero strumento di marketing"
 slug = "fotografo-hotel-strumento-marketing"
 seoDescription = "Scopri perché affidarsi a un fotografo hotel significa avere uno strumento di marketing potente. Foto e video professionali sono la base per promuovere la tua struttura su social, booking e sito web."
-banner = "fotografo-hotel-marketing.png"
+banner = "fotografo-hotel-marketing.jpg"
 +++
 
 Quando si pensa a un **fotografo hotel**, spesso lo si immagina come qualcuno che entra nella struttura, scatta qualche immagine delle stanze e se ne va.  
@@ -22,7 +22,7 @@ Se le foto non trasmettono atmosfera, cura e valore, il potenziale ospite passa 
 
 Un fotografo hotel sa che ogni scatto non è solo un ricordo della struttura, ma un **contenuto visivo studiato per catturare attenzione e invogliare a prenotare**.
 
-{{< image src="foto-la-base.png" alt="Foto: la base per la tua strategia marketing" >}}
+{{< image src="foto-la-base.jpg" alt="Foto: la base per la tua strategia marketing" >}}
 
 ## Foto e video come strumenti di conversione
 

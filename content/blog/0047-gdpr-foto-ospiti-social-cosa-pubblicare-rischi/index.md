@@ -4,7 +4,7 @@ draft = false
 title = "GDPR e foto degli ospiti sui social: cosa puoi pubblicare (e cosa rischi)"
 slug = "gdpr-foto-ospiti-social-cosa-pubblicare-rischi"
 seoDescription = "Scopri cosa dice il GDPR sulle foto degli ospiti pubblicate sui social da hotel, B&B e agriturismi. Regole, rischi e come proteggere la privacy senza rinunciare ai contenuti."
-banner = "gdpr-foto-ospiti-social-cosa-pubblicare-rischi.png"
+banner = "gdpr-foto-ospiti-social-cosa-pubblicare-rischi.jpg"
 +++
 
 È sabato sera. Un ospite posta una foto meravigliosa della tua struttura su Instagram, ti tagga, e tu la ripubblichi subito nelle tue storie. Sembra innocuo, vero?

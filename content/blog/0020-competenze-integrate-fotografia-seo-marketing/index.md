@@ -4,7 +4,7 @@ draft = false
 title = "Perché unire fotografia, SEO, web e marketing non è da tutti"
 slug = "competenze-integrate-fotografia-seo-marketing"
 seoDescription = "Un fotografo per hotel non basta: per promuovere una struttura servono competenze integrate in fotografia, SEO, web e marketing. Ecco perché questa combinazione è rara e potente."
-banner = "competenze-integrate.png"
+banner = "competenze-integrate.jpg"
 +++
 
 Quando parliamo di promozione di una struttura ricettiva, molti pensano subito alle foto.  

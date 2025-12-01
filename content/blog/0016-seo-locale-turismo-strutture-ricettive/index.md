@@ -4,7 +4,7 @@ draft = false
 title = "SEO locale per il turismo: farsi trovare da chi cerca vicino a te"
 slug = "seo-locale-turismo-strutture-ricettive"
 seoDescription = "Scopri come il SEO locale può aiutare hotel, B&B e agriturismi a farsi trovare da chi cerca strutture vicino a loro. Strategie pratiche per aumentare visibilità e prenotazioni."
-banner = "seo-locale-turismo.png"
+banner = "seo-locale-turismo.jpg"
 +++
 
 Quando un viaggiatore cerca un posto dove dormire o un’esperienza da vivere, sempre più spesso utilizza ricerche come:  

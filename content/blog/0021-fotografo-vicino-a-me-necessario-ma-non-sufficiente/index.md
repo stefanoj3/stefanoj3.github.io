@@ -4,7 +4,7 @@ draft = false
 title = "Perché cercare solo un 'fotografo vicino a me' non basta più"
 slug = "fotografo-vicino-a-me-necessario-ma-non-sufficiente"
 seoDescription = "Scopri perché affidarsi solo a un fotografo vicino a te non basta per hotel, B&B e agriturismi. Foto, video e strategia integrata sono la chiave per aumentare visibilità, prenotazioni e margini."
-banner = "fotografo-vicino-a-me-necessario-ma-non-sufficiente.png"
+banner = "fotografo-vicino-a-me-necessario-ma-non-sufficiente.jpg"
 +++
 
 Quando un proprietario di hotel, B&B o agriturismo cerca un “fotografo vicino a me”, spesso pensa di aver risolto il problema. **Ma avere un professionista locale non garantisce automaticamente risultati concreti.**

@@ -4,7 +4,7 @@ draft = false
 title = "Identità e comunicazione: costruire un brand riconoscibile per la tua struttura"
 slug = "identita-comunicazione-brand-riconoscibile-struttura"
 seoDescription = "Guida completa su come costruire un'identità di brand forte per hotel, B&B e agriturismi: dalla visual identity alla comunicazione efficace che converte visitatori in clienti."
-banner = "identita-comunicazione-brand-riconoscibile-struttura.png"
+banner = "identita-comunicazione-brand-riconoscibile-struttura.jpg"
 +++
 
 Hai mai notato come certe strutture ricettive si ricordano subito, mentre altre si confondono nella massa? Non è questione di budget o dimensioni. È questione di **identità**.

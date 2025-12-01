@@ -4,7 +4,7 @@ draft = false
 title = "Cosa ho imparato lavorando in aziende con fatturato oltre il miliardo"
 slug = "lezioni-grandi-aziende-web-social"
 seoDescription = "Scopri le lezioni che ho imparato lavorando in aziende con fatturato annuo oltre il miliardo e come applicarle a siti web, social media e strategie digitali per hotel, B&B e agriturismi."
-banner = "grandi-aziende.png"
+banner = "grandi-aziende.jpg"
 +++
 
 Durante la mia carriera nel mondo informatico, ho avuto l’opportunità di lavorare in aziende quotate in borsa con un fatturato annuo superiore al miliardo di euro. (Hellofresh, RocketInternet)  

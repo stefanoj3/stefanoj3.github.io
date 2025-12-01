@@ -4,7 +4,7 @@ draft = false
 title = "Quando il drone salva il servizio fotografico: casi reali dove lo spazio non bastava"
 slug = "drone-salva-servizio-fotografico-spazi-stretti"
 seoDescription = "Scopri come la fotografia con drone risolve problemi impossibili per hotel, agriturismi e B&B: spazi stretti, piscine circondate da muri, contesto territoriale. Caso studio reale."
-banner = "drone-salva-servizio-fotografico-spazi-stretti.png"
+banner = "drone-salva-servizio-fotografico-spazi-stretti.jpg"
 +++
 
 Immagina questa scena: sei proprietario di una struttura con una bellissima piscina. Hai investito per renderla accogliente, l'hai curata nei minimi dettagli. Arriva il fotografo per il servizio e... problema. La piscina è circondata da mura, lo spazio è stretto, anche con un obiettivo grandangolare è impossibile catturare la bellezza dell'insieme.

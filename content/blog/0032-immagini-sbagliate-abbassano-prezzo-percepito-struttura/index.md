@@ -4,7 +4,7 @@ draft = false
 title = "Come le immagini sbagliate abbassano il prezzo percepito della tua struttura"
 slug = "immagini-sbagliate-abbassano-prezzo-percepito-struttura"
 seoDescription = "Scopri come foto scadenti, storte o poco curate riducono il valore percepito di hotel, B&B e agriturismi, costringendoti a competere sul prezzo. Consigli da un fotografo professionista."
-banner = "immagini-sbagliate-abbassano-prezzo-percepito-struttura.png"
+banner = "immagini-sbagliate-abbassano-prezzo-percepito-struttura.jpg"
 +++
 
 Hai mai notato che alcune strutture ricettive riescono a praticare tariffe più alte delle tue, pur offrendo servizi simili? O magari ti sei chiesto perché i clienti negoziano sempre il prezzo, cercando sconti e offerte dell'ultimo minuto?

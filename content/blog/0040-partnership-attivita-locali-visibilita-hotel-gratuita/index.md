@@ -4,7 +4,7 @@ draft = false
 title = "Partnership con attività locali: come moltiplicare visibilità a costo zero"
 slug = "partnership-attivita-locali-visibilita-hotel-gratuita"
 seoDescription = "Guida pratica alle partnership strategiche per hotel, B&B e agriturismi. Scopri come collaborare con attività locali per aumentare visibilità e prenotazioni senza budget pubblicitario."
-banner = "partnership-attivita-locali-visibilita-hotel-gratuita.png"
+banner = "partnership-attivita-locali-visibilita-hotel-gratuita.jpg"
 +++
 
 Stai investendo centinaia o migliaia di euro in pubblicità online per far conoscere la tua struttura. E funziona, certo. Ma c'è una strategia potentissima che la maggior parte dei proprietari ignora completamente: **le partnership con altre attività locali**.

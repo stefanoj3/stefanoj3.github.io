@@ -4,7 +4,7 @@ draft = false
 title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi (e cosa include davvero)"
 slug = "quanto-costa-servizio-fotografico-hotel-agriturismo"
 seoDescription = "Guida completa ai costi di un servizio fotografico professionale per strutture ricettive: cosa influenza il prezzo, cosa è incluso, come valutare il preventivo giusto."
-banner = "quanto-costa-servizio-fotografico-hotel-agriturismo.png"
+banner = "quanto-costa-servizio-fotografico-hotel-agriturismo.jpg"
 +++
 
 "Quanto costa un servizio fotografico per la mia struttura?"

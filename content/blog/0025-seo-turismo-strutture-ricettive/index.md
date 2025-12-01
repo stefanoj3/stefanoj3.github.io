@@ -4,7 +4,7 @@ draft = false
 title = "SEO turismo: come far trovare la tua struttura ai viaggiatori online"
 slug = "seo-turismo-strutture-ricettive"
 seoDescription = "Scopri come la SEO turismo aiuta hotel, B&B, agriturismi e aziende vinicole a farsi trovare online dai viaggiatori e aumentare prenotazioni dirette."
-banner = "seo-turismo.png"
+banner = "seo-turismo.jpg"
 +++
 
 Quando un viaggiatore cerca un hotel, un B&B o un agriturismo, il suo primo strumento non è più un’agenzia, ma **Google**. Ed è qui che entra in gioco la **SEO turismo**, ovvero l’insieme di strategie per rendere la tua struttura più visibile online e più attraente agli occhi dei clienti.

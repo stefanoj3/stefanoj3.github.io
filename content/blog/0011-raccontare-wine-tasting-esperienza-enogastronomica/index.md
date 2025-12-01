@@ -4,7 +4,7 @@ draft = false
 title = "Come raccontare un’esperienza di wine tasting ed enogastronomia per attrarre turisti e winelovers"
 slug = "raccontare-wine-tasting-esperienza-enogastronomica"
 seoDescription = "Scopri come raccontare un’esperienza di wine tasting ed enogastronomia per attrarre turisti e winelovers. Fotografie, storytelling e strategie di comunicazione per aumentare visite e prenotazioni."
-banner = "wine-tasting.png"
+banner = "wine-tasting.jpg"
 +++
 
 Il turismo enogastronomico è uno dei settori in maggiore crescita in Italia: ogni anno migliaia di viaggiatori scelgono dove andare non solo in base alle bellezze artistiche o naturali, ma anche per **vivere esperienze legate al cibo e al vino**.  

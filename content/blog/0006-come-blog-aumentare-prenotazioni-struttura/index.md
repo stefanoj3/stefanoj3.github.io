@@ -4,7 +4,7 @@ draft = false
 title = "Come un blog può aumentare le prenotazioni della tua struttura"
 slug = "come-blog-aumentare-prenotazioni-struttura"
 seoDescription = "Scopri perché un blog per hotel, B&B o agriturismi migliora la posizione su Google, aumenta visibilità, fidelizza clienti e porta più prenotazioni. Impara come creare un blog sito web efficace per la tua struttura."
-banner = "blog.png"
+banner = "blog.jpg"
 homeAsCanonical = false
 +++
 
@@ -39,7 +39,7 @@ Ho seguito un B&B in Toscana che non aveva mai scritto contenuti sul territorio.
 Il percorso è durato fino a dicembre 2024, e già durante questi mesi il sito ha iniziato a salire nelle ricerche per parole chiave strategiche.  
 Dopo la pubblicazione dei contenuti, le prenotazioni dirette sono aumentate del 30%.
 
-![I risultati visti da Google Search Console](risultati-google-search-console.png)
+![I risultati visti da Google Search Console](risultati-google-search-console.jpg)
 
 I dati di Google Search Console mostrano chiaramente come il traffico sia cresciuto mese dopo mese, e anche dopo la conclusione del percorso il blog continua a generare visitatori qualificati. Questo dimostra che contenuti strategici e coerenti con il territorio hanno un impatto duraturo sul successo della tua struttura.
 

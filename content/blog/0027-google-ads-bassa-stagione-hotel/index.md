@@ -4,7 +4,7 @@ draft = false
 title = "Come usare le campagne Google Ads per riempire le camere nei periodi di bassa stagione"
 slug = "google-ads-bassa-stagione-hotel"
 seoDescription = "Scopri come usare le campagne Google Ads per riempire le camere nei periodi di bassa stagione: strategie efficaci per hotel, agriturismi e B&B."
-banner = "google-ads-bassa-stagione.png"
+banner = "google-ads-bassa-stagione.jpg"
 +++
 
 Molti proprietari di hotel, agriturismi e B&B vivono lo stesso problema: **durante la bassa stagione le camere rimangono vuote**. Anche se la struttura è curata e l’esperienza offerta è autentica, la domanda cala e il fatturato si riduce drasticamente.

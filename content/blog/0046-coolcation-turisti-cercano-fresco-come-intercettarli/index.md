@@ -4,7 +4,7 @@ draft = false
 title = "Coolcation: perché sempre più turisti cercano il fresco (e come la tua struttura può intercettarli)"
 slug = "coolcation-turisti-cercano-fresco-come-intercettarli"
 seoDescription = "Scopri il trend della coolcation: sempre più turisti scelgono destinazioni fresche. Come posizionare hotel, agriturismi e B&B per attrarre chi fugge dal caldo."
-banner = "coolcation-turisti-cercano-fresco-come-intercettarli.png"
+banner = "coolcation-turisti-cercano-fresco-come-intercettarli.jpg"
 +++
 
 Estate 2025. Quaranta gradi sulle coste italiane. Spiagge affollate, aria condizionata a manetta, notti insonni. E sempre più persone che si chiedono: "Ma chi me lo fa fare?"

@@ -4,7 +4,7 @@ draft = false
 title = "Google Business Profile per hotel: 7 errori che ti fanno perdere prenotazioni locali"
 slug = "google-business-profile-errori-hotel-prenotazioni-locali"
 seoDescription = "Scopri i 7 errori più comuni su Google Business Profile che fanno perdere prenotazioni a hotel, B&B e agriturismi. Guida pratica per ottimizzare la tua scheda Google."
-banner = "google-business-profile-errori-hotel-prenotazioni-locali.png"
+banner = "google-business-profile-errori-hotel-prenotazioni-locali.jpg"
 +++
 
 Ogni giorno, centinaia di potenziali clienti cercano su Google "hotel vicino a me", "agriturismo [tua zona]", "dove dormire a [tua città]". E Google mostra loro una mappa con le strutture della zona.

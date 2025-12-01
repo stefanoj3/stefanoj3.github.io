@@ -4,7 +4,7 @@ draft = false
 title = "Come usare le recensioni online per aumentare fiducia e prenotazioni dirette"
 slug = "recensioni-online-fiducia-prenotazioni-dirette"
 seoDescription = "Scopri come sfruttare le recensioni online per hotel, B&B e agriturismi. Strategie pratiche per trasformare feedback e testimonianze in uno strumento di fiducia e prenotazioni dirette."
-banner = "recensioni-online-fiducia-prenotazioni-dirette.png"
+banner = "recensioni-online-fiducia-prenotazioni-dirette.jpg"
 +++
 
 Quando un potenziale ospite valuta se prenotare la tua struttura, non guarda solo le foto o i prezzi: **le recensioni online hanno un peso decisivo**.  

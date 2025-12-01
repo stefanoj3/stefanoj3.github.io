@@ -4,7 +4,7 @@ draft = false
 title = "Le 10 parole che uccidono le prenotazioni (e cosa usare invece)"
 slug = "parole-uccidono-prenotazioni-hotel-cosa-usare-invece"
 seoDescription = "Scopri le 10 parole ed espressioni che fanno scappare i clienti dal tuo sito e social. Guida pratica al copywriting efficace per hotel, B&B e agriturismi."
-banner = "parole-uccidono-prenotazioni-hotel-cosa-usare-invece.png"
+banner = "parole-uccidono-prenotazioni-hotel-cosa-usare-invece.jpg"
 +++
 
 Hai mai passato ore a scrivere la descrizione perfetta della tua struttura, pubblicato con orgoglio, e poi... niente? Poche visualizzazioni, ancora meno prenotazioni?

@@ -4,7 +4,7 @@ draft = false
 title = "Nomadi digitali: opportunità per agriturismi e strutture in zone tranquille"
 slug = "nomadi-digitali-opportunita-agriturismi"
 seoDescription = "Scopri perché i nomadi digitali rappresentano una grande opportunità per agriturismi e strutture in zone tranquille: attrarli con comfort, autenticità e strategie digitali mirate."
-banner = "nomadi-digitali-agriturismi.png"
+banner = "nomadi-digitali-agriturismi.jpg"
 +++
 
 Negli ultimi anni il fenomeno dei **nomadi digitali** è cresciuto esponenzialmente. Professionisti, freelance e creativi che lavorano da remoto scelgono di viaggiare e vivere esperienze autentiche, portandosi il lavoro nello zaino.
