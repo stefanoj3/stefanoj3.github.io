@@ -209,7 +209,8 @@ Guarda cosa è successo nei mesi successivi (gennaio-dicembre 2025), senza aggiu
 
 ![I risultati visti da Google Search Console](google-search-console-performance.png)
 
-In rosso ho marcato il periodo in cui abbiamo lanciato sito e iniziato a scrivere sul blog.
+In rosso ho marcato il periodo in cui abbiamo lanciato sito e scritto sul blog, dopo dicembre 2024 non abbiamo piu
+pubblicato nuovi contenuti, e il sito ha continuato a lavorare per il mio cliente.
 
 Risultato: oltre 1.300 visite organiche arrivate da Google, completamente gratuite, senza pagare pubblicità.
 Questo è il potere di un blog fatto strategicamente. I contenuti continuano a lavorare per te, mese dopo mese, anno dopo anno.
