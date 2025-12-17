@@ -17571,3 +17571,50 @@ i.no-float {
   width: 100%;
   cursor: pointer;
 }
+
+
+.whatsapp-button {
+  /* Posizionamento fisso rispetto alla finestra del browser */
+  position: fixed;
+
+  /* Distanza dal fondo e dal lato destro (standard) */
+  bottom: 25px;
+  right: 25px;
+
+  /* Assicura che sia sopra gli altri elementi */
+  z-index: 1000;
+
+  /* Rimuove la decorazione standard dei link */
+  text-decoration: none;
+
+  /* Rendi l'immagine all'interno reattiva e dimensionata */
+  display: block;
+}
+
+.whatsapp-button img {
+  /* --- DIMENSIONI NORMALI (75% dell'originale) --- */
+  width: 100px;
+  height: 100px;
+
+  /* Rimuovi l'eventuale bordo di default dell'immagine */
+  border: none;
+}
+
+/* Opzionale: Effetto al passaggio del mouse/tocco */
+.whatsapp-button:hover img {
+  transform: scale(1.03); /* Ingrandisce leggermente l'icona */
+  transition: transform 0.3s ease-in-out;
+}
+
+/* --- Regolazioni per schermi piccoli (Mobile) --- */
+@media (max-width: 600px) {
+  .whatsapp-button {
+    /* Spostalo un po' meno dagli angoli su schermi piccoli */
+    bottom: 20px;
+    right: 20px;
+  }
+  .whatsapp-button img {
+    width: 75px;
+    height: 75px;
+  }
+}
