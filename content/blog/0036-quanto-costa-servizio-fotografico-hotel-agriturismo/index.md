@@ -165,4 +165,4 @@ Saprai esattamente cosa riceverai, quando lo riceverai, e come potrai usarlo per
 
 Perché un investimento in fotografia professionale deve essere una decisione consapevole, non un salto nel buio.
 
-{{< parliamone title="Vuoi un preventivo trasparente e personalizzato per la tua struttura?" text="ti farò domande specifiche sui tuoi obiettivi e ti preparerò un preventivo dettagliato che spiega esattamente cosa riceverai, come le foto si integreranno nella tua strategia di marketing, e quale ritorno puoi aspettarti dall'investimento." >}}
+{{< parliamone title="Vuoi un preventivo trasparente e personalizzato per la tua struttura?" text="ti farò domande specifiche sui tuoi obiettivi e ti preparerò un preventivo dettagliato che spiega esattamente cosa riceverai, come le foto si integreranno nella tua strategia di marketing, e quale ritorno puoi aspettarti dall'investimento. 🇮🇹 Opero in tutta Italia. 🇮🇹" >}}
