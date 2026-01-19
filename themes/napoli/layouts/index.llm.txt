@@ -1,0 +1,79 @@
+# Stefano Gabryel
+
+> Fotografo e stratega digitale per hotel, B&B, agriturismi, ristoranti e aziende vinicole
+
+**Lingue**: Italiano, Inglese
+**Email**: {{ .Site.Params.email }}
+**Phone**: {{ .Site.Params.phone }} (also whatsapp)
+**Website**: {{ .Site.BaseURL }}
+**Linkedin**: https://www.linkedin.com/in/stefano-g-12603675/
+
+## Chi sono
+
+Professionista specializzato in comunicazione visiva e marketing per il settore dell'accoglienza, ristorazione e vino. Aiuto imprenditori a far crescere il loro business attraverso strategie digitali integrate e contenuti che convertono.
+
+## Servizi
+
+### Fotografia Professionale
+- Shooting per hotel, B&B, agriturismi
+- Fotografia per ristoranti e aziende vinicole
+- Riprese aeree con drone
+- Fotografia d'ambiente e di prodotto
+
+### Strategia Digitale
+- Analisi di mercato e posizionamento
+- Definizione brand identity
+- Storytelling aziendale
+- Strategie marketing su misura
+
+### Contenuti e Web
+- Gestione social media (Instagram)
+- Sviluppo e ottimizzazione siti web
+- Creazione video promozionali
+- Content creation integrato
+
+## Competenze
+
+**Background tecnico**: 13+ anni come programmatore e manager nel settore informatico, con esperienza in progetti digitali complessi e collaborazioni con grandi aziende
+
+**Esperienza visiva**: fotografia professionale e produzione contenuti specializzata per hospitality e ristorazione
+
+**Conoscenza del settore**: guida ambientale escursionistica abilitata, con profonda comprensione del mondo dell'ospitalità
+
+**Approccio integrato**: referente unico per garantire coerenza tra fotografia, web, social e strategia marketing
+
+## Come lavoro
+
+1. **Analisi**: studio approfondito della tua attività e del mercato di riferimento
+2. **Strategia**: definiamo insieme obiettivi concreti e misurabili
+3. **Produzione**: sviluppo contenuti su misura (foto, video, web, social)
+4. **Risultati**: monitoraggio e ottimizzazione per aumentare visibilità, prenotazioni e fatturato
+
+## Dove opero
+
+**Base**: Toscana (Pistoia-Lucca-Pisa-Firenze-Prato)
+**Operatività**: principalmente Toscana, disponibile per progetti in tutta Italia
+
+## Per chi lavoro
+
+Imprenditori nei settori:
+- Hotel e strutture ricettive
+- Bed & Breakfast
+- Agriturismi
+- Ristoranti e osterie
+- Aziende vinicole e cantine
+
+## Filosofia
+
+Ogni attività ha una storia unica. Il mio lavoro è ascoltarla, valorizzarla e trasformarla in immagini e contenuti che emozionano, ispirano fiducia e creano connessioni reali con i clienti.
+
+L'obiettivo è sempre concreto: aumentare visibilità, pubblico e fatturato attraverso un'immagine online coerente e professionale.
+
+## Contatti
+
+Consulenza iniziale gratuita disponibile.
+
+---
+
+*Fotografia • Brand Identity • Storytelling • Marketing • Social Media • Web • Strategy*
+

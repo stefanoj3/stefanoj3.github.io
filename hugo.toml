@@ -32,3 +32,17 @@ theme = "napoli"
     name = "Blog"
     url = "/blog"
     weight = 3
+
+
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["txt"]
+
+[outputFormats]
+  [outputFormats.LLM]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+
+[outputs]
+  home = ["HTML", "LLM"]
