@@ -10,10 +10,6 @@ stefanogabryel.it
 {{< parliamone text="insieme vedremo come immagini professionali, social curati, un sito accattivante e strategie di marketing mirate possono far emergere la tua struttura, aumentando visibilità, prenotazioni e valore percepito." >}}
 ```
 
-```toml
-homeAsCanonical = true
-```
-
 ```md
 {{< gallery >}}
 picture1.jpg|Alt Text

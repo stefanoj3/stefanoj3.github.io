@@ -5,7 +5,6 @@ title = "Come valorizzare il territorio e i luoghi di interesse per aumentare pr
 slug = "valorizzare-territorio-luoghi-interesse-strutture-ricettive"
 seoDescription = "Scopri come aumentare prenotazioni e margini del tuo hotel, B&B o agriturismo valorizzando il territorio: bellezze naturali, luoghi storici e culturali, e punti logistici possono trasformare una semplice struttura in una destinazione irresistibile."
 banner = "valorizzare-luoghi-di-interesse.jpg"
-homeAsCanonical = false
 +++
 
 Quando si parla di marketing per strutture ricettive, molti proprietari si concentrano solo su camere, servizi o offerte speciali.  
