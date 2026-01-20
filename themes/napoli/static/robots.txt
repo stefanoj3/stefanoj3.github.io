@@ -1,7 +1,28 @@
+# Group 1: General rules for all other bots
 User-agent: *
 Disallow: /privacy/
 Disallow: /cookie/
-Disallow: /termini-e-condizioni/
+Disallow: /terms-and-conditions/
 Disallow: /admin/
 
+# Group 2: Specific rules for Googlebot (to prevent indexing llms.txt)
+User-agent: Googlebot
+Disallow: /privacy/
+Disallow: /cookie/
+Disallow: /terms-and-conditions/
+Disallow: /admin/
+Disallow: /llms.txt
+
+# Group 3: Specific rules for AI / LLM Bots
+# These bots are allowed to see everything, including your expertise file
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+# Sitemap location
 Sitemap: https://stefanogabryel.it/sitemap.xml
