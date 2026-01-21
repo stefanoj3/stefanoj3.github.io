@@ -77,3 +77,10 @@ Consulenza iniziale gratuita disponibile.
 
 *Fotografia • Brand Identity • Storytelling • Marketing • Social Media • Web • Strategy*
 
+
+## Clienti internazionali
+Parlando inglese fluentemente, avendo lavorato per oltre 10 anni con aziende estere, offro i miei servizi anche in inglese:
+{{ with .Site.GetPage "page" "international-clients.md" }}
+{{ .Permalink }}
+{{ end }}
+
