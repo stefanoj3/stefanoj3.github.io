@@ -20,10 +20,20 @@
                         {{ end }}
                     </p>
 
+                    <div class="text-center">
+                        <p><strong>Per un contatto rapido mi trovi su Whatsapp</strong></p>
+                        <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img style="width:250px;" src="/images/start-chat.png" alt="Inizia la chat su whatsapp"></a>
+                        <p>Oppure</p>
+                    </div>
+
+
                     {{ with .Site.GetPage "page" "contatti.md" }}
-                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">Contattami</a></div>
+                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">vai alla pagina contatti</a></div>
                     {{ end }}
 
+                    <div class="text-center">
+                        <p>🇮🇹 Opero in tutta Italia 🇮🇹</p>
+                    </div>
                 </div>
             </div>
         </div>
