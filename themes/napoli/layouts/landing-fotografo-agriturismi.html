@@ -264,14 +264,18 @@
 
                 <div class="titles">
                     <h2 class="title">Prenota ora il tuo servizio fotografico</h2>
-                    <p>Penso io a tutto: tu devi solo preparare la tua struttura, al resto ci penso io.</p>
+                    <p>Penso io a tutto: tu devi solo preparare la tua struttura.</p>
                     <p>E se desideri anche video, supporto per il sito web o la gestione dei social, posso essere il tuo unico referente per costruire un’immagine coerente e professionale a 360 gradi.</p>
 
+
+                    <div class="text-center">
+                        <p><strong>Per un contatto rapido mi trovi su Whatsapp</strong></p>
+                        <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img style="width:250px;" src="/images/start-chat.png" alt="Inizia la chat su Whatsapp"></a>
+                        <p>Oppure</p>
+                    </div>
                     {{ with .Site.GetPage "page" "contatti.md" }}
-                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">📸 Richiedi un Preventivo Gratuito</a></div>
+                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">vai alla pagina contatti</a></div>
                     {{ end }}
-                    <p></p>
-                    <div class="button-wrap text-center"><a href="{{ .Site.Params.whatsappLink }}" style="width:100%" class="a-btn-2 button"><i class="fa fa-whatsapp whatsapp-green"></i> Contattami subito su WhatsApp <i class="fa fa-whatsapp whatsapp-green"></i></a></div>
                 </div>
             </div>
         </div>

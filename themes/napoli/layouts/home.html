@@ -164,8 +164,13 @@
                     <p><b>Il mio obiettivo? Risultati concreti:</b> ti affianco nel tempo con strategie su misura che aumentano visibilità, pubblico e prenotazioni.</p>
                     <p>I miei servizi sono pensati per rispondere alle esigenze di una direzione attenta ai risultati e alla coerenza del brand.</p>
 
+                    <div class="text-center">
+                        <p><strong>Per un contatto rapido mi trovi su Whatsapp</strong></p>
+                        <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img style="width:250px;" src="/images/start-chat.png" alt="Inizia la chat su Whatsapp"></a>
+                        <p>Oppure</p>
+                    </div>
                     {{ with .Site.GetPage "page" "contatti.md" }}
-                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">Parliamone</a></div>
+                    <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">vai alla pagina contatti</a></div>
                     {{ end }}
 
                 </div>
