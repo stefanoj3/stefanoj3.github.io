@@ -30,7 +30,7 @@ theme = "napoli"
 
   [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/blog/"
     weight = 3
 
 
