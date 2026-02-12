@@ -4,6 +4,6 @@
 <link rel="icon" type="image/ico" href="/images/favicon.ico">
 <meta property="og:image" content="/photos/home-page-banner.jpg">
 
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title "Stefano Gabryel Fotografo" }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s" .Title }}{{ end }}</title>
 
 {{ partialCached "head/css.html" . }}

@@ -1,7 +1,8 @@
 +++
 date = '2025-08-26'
 draft = false
-title = "Valorizzare il territorio: un'opportunità per hotel, B&B e agriturismi"
+title = "Valorizzare il territorio per hotel e agriturismi"
+h1_title = "Valorizzare il territorio: un'opportunità per hotel, B&B e agriturismi"
 slug = "valorizzare-territorio-strutture-ricettive"
 seoDescription = "Scopri come valorizzare il territorio intorno alla tua struttura ricettiva per attrarre più clienti. Strategie pratiche per raccontare storia, arte e cultura locali e aumentare prenotazioni."
 banner = "valorizzare-territorio-strutture-ricettive.jpg"

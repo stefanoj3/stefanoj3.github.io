@@ -1,7 +1,8 @@
 +++
 date = '2025-10-02'
 draft = false
-title = "Partnership con attività locali: come moltiplicare visibilità a costo zero"
+title = "Partnership locali per hotel: più visibilità"
+h1_title = "Partnership con attività locali: come moltiplicare visibilità a costo zero"
 slug = "partnership-attivita-locali-visibilita-hotel-gratuita"
 seoDescription = "Guida pratica alle partnership strategiche per hotel, B&B e agriturismi. Scopri come collaborare con attività locali per aumentare visibilità e prenotazioni senza budget pubblicitario."
 banner = "partnership-attivita-locali-visibilita-hotel-gratuita.jpg"

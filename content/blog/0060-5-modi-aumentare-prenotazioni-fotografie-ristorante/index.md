@@ -1,7 +1,8 @@
 +++
 date = '2026-01-19'
 draft = false
-title = "5 Modi per Aumentare le Prenotazioni con Fotografie Accattivanti: Il Tuo Ristorante Merita di Più!"
+title = "5 modi per aumentare prenotazioni con foto"
+h1_title = "5 Modi per Aumentare le Prenotazioni con Fotografie Accattivanti: Il Tuo Ristorante Merita di Più!"
 slug = "5-modi-aumentare-prenotazioni-fotografie-ristorante"
 seoDescription = "Scopri come la food photography professionale aumenta le prenotazioni del tuo ristorante: 5 strategie concrete con casi studio reali e risultati misurabili."
 banner = "5-modi-aumentare-prenotazioni-fotografie-ristorante.jpg"

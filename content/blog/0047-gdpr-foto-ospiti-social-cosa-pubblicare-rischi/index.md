@@ -1,7 +1,8 @@
 +++
 date = '2025-10-09'
 draft = false
-title = "GDPR e foto degli ospiti sui social: cosa puoi pubblicare (e cosa rischi)"
+title = "GDPR e foto ospiti: cosa puoi pubblicare"
+h1_title = "GDPR e foto degli ospiti sui social: cosa puoi pubblicare (e cosa rischi)"
 slug = "gdpr-foto-ospiti-social-cosa-pubblicare-rischi"
 seoDescription = "Scopri cosa dice il GDPR sulle foto degli ospiti pubblicate sui social da hotel, B&B e agriturismi. Regole, rischi e come proteggere la privacy senza rinunciare ai contenuti."
 banner = "gdpr-foto-ospiti-social-cosa-pubblicare-rischi.jpg"

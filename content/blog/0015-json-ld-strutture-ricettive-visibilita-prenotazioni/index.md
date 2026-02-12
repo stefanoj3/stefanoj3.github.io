@@ -1,7 +1,8 @@
 +++
 date = '2025-09-01'
 draft = false
-title = "JSON-LD per strutture ricettive: come aumentare visibilità e prenotazioni"
+title = "JSON-LD per hotel: più visibilità e prenotazioni"
+h1_title = "JSON-LD per strutture ricettive: come aumentare visibilità e prenotazioni"
 slug = "json-ld-strutture-ricettive-visibilita-prenotazioni"
 seoDescription = "Scopri l'importanza del JSON-LD per hotel, B&B e agriturismi. Come strutturare i dati per motori di ricerca e AI, migliorare la visibilità e incrementare le prenotazioni dirette."
 banner = "json-ld-strutture-ricettive-visibilita-prenotazioni.jpg"

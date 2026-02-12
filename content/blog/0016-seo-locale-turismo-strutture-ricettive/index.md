@@ -1,7 +1,8 @@
 +++
 date = '2025-09-02'
 draft = false
-title = "SEO locale per il turismo: farsi trovare da chi cerca vicino a te"
+title = "SEO locale per hotel: farsi trovare vicino a te"
+h1_title = "SEO locale per il turismo: farsi trovare da chi cerca vicino a te"
 slug = "seo-locale-turismo-strutture-ricettive"
 seoDescription = "Scopri come il SEO locale può aiutare hotel, B&B e agriturismi a farsi trovare da chi cerca strutture vicino a loro. Strategie pratiche per aumentare visibilità e prenotazioni."
 banner = "seo-locale-turismo.jpg"

@@ -1,7 +1,8 @@
 +++
 date = '2025-09-15'
 draft = false
-title = "Il potere delle micro-nicchie: attirare clienti in cerca di esperienze particolari"
+title = "Micro-nicchie nel turismo: attrarre clienti mirati"
+h1_title = "Il potere delle micro-nicchie: attirare clienti in cerca di esperienze particolari"
 slug = "micro-nicchie-turismo-esperienze"
 seoDescription = "Scopri come il potere delle micro-nicchie nel turismo può aiutare hotel, B&B, agriturismi e cantine ad attirare clienti in cerca di esperienze particolari e autentiche."
 banner = "micro-nicchie-turismo.jpg"

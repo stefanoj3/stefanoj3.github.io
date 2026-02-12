@@ -1,7 +1,8 @@
 +++
 date = '2025-09-09'
 draft = false
-title = "Perché il “fai da te” sui social costa più che assumere un professionista"
+title = "Social fai da te? Costa più di un professionista"
+h1_title = "Perché il “fai da te” sui social costa più che assumere un professionista"
 slug = "fai-da-te-social-costo-professionista"
 seoDescription = "Scopri perché gestire i social da soli può costare più che affidarsi a un professionista. Strategie, coerenza visiva e tempo risparmiato per hotel, B&B, agriturismi e aziende vinicole."
 banner = "fai-da-te-social.jpg"

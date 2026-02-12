@@ -36,11 +36,11 @@
                         <article class="post col-md-4 col-sm-6 margin-md-20b margin-xs-20b margin-lg-20b margin-sm-20b">
                             <a href="{{ .Permalink }}">
                                 {{ with .Resources.GetMatch .Params.banner }}
-                                <div class="post-media"><img src="{{ .Permalink }}" class="s-img-switch" alt="{{ .Title }}"></div>
+                                <div class="post-media"><img src="{{ .Permalink }}" class="s-img-switch" alt="{{ .Params.h1_title }}"></div>
                                 {{ end }}
 
                                 <div class="post-content ">
-                                    <h5 class="title"><b>{{ .Title }}</b></h5>
+                                    <h5 class="title"><b>{{ .Params.h1_title }}</b></h5>
                                     <time datetime="{{ .Date.Format "2006/01/02" }}" class="date">{{ .Date.Format "02/01/2006" }}</time>
                                 </div>
                             </a>

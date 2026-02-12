@@ -1,7 +1,8 @@
 +++
 date = '2025-09-03'
 draft = false
-title = "Perché un fotografo hotel non scatta solo foto ma crea un vero strumento di marketing"
+title = "Fotografo hotel: non solo foto ma marketing"
+h1_title = "Perché un fotografo hotel non scatta solo foto ma crea un vero strumento di marketing"
 slug = "fotografo-hotel-strumento-marketing"
 seoDescription = "Scopri perché affidarsi a un fotografo hotel significa avere uno strumento di marketing potente. Foto e video professionali sono la base per promuovere la tua struttura su social, booking e sito web."
 banner = "fotografo-hotel-marketing.jpg"

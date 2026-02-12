@@ -1,7 +1,8 @@
 +++
 date = '2025-09-22'
 draft = false
-title = "Come le immagini sbagliate abbassano il prezzo percepito della tua struttura"
+title = "Immagini sbagliate? Calano il valore del tuo hotel"
+h1_title = "Come le immagini sbagliate abbassano il prezzo percepito della tua struttura"
 slug = "immagini-sbagliate-abbassano-prezzo-percepito-struttura"
 seoDescription = "Scopri come foto scadenti, storte o poco curate riducono il valore percepito di hotel, B&B e agriturismi, costringendoti a competere sul prezzo. Consigli da un fotografo professionista."
 banner = "immagini-sbagliate-abbassano-prezzo-percepito-struttura.jpg"

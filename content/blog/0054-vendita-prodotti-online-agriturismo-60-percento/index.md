@@ -1,7 +1,8 @@
 +++
 date = '2025-10-19'
 draft = false
-title = "Vendita prodotti online dall'agriturismo: il 60% lo fa già (e tu?)"
+title = "Vendita online agriturismo: opportunità"
+h1_title = "Vendita prodotti online dall'agriturismo: il 60% lo fa già (e tu?)"
 slug = "vendita-prodotti-online-agriturismo-60-percento"
 seoDescription = "Scopri perché il 60% degli agriturismi vende già prodotti online e come avviare un e-commerce agricolo: dalla normativa alle strategie per trasformare ospiti in clienti fedeli."
 banner = "vendita-prodotti-online-agriturismo-60-percento.jpg"

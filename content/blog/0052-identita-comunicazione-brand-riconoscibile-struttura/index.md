@@ -1,7 +1,8 @@
 +++
 date = '2025-10-14'
 draft = false
-title = "Identità e comunicazione: costruire un brand riconoscibile per la tua struttura"
+title = "Brand hotel: identità e comunicazione efficace"
+h1_title = "Identità e comunicazione: costruire un brand riconoscibile per la tua struttura"
 slug = "identita-comunicazione-brand-riconoscibile-struttura"
 seoDescription = "Guida completa su come costruire un'identità di brand forte per hotel, B&B e agriturismi: dalla visual identity alla comunicazione efficace che converte visitatori in clienti."
 banner = "identita-comunicazione-brand-riconoscibile-struttura.jpg"

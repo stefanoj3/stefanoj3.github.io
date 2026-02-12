@@ -1,7 +1,8 @@
 +++
 date = '2025-08-22'
 draft = false
-title = "Cosa ho imparato lavorando in aziende con fatturato oltre il miliardo"
+title = "Cosa ho imparato in aziende da oltre 1 miliardo"
+h1_title = "Cosa ho imparato lavorando in aziende con fatturato oltre il miliardo"
 slug = "lezioni-grandi-aziende-web-social"
 seoDescription = "Scopri le lezioni che ho imparato lavorando in aziende con fatturato annuo oltre il miliardo e come applicarle a siti web, social media e strategie digitali per hotel, B&B e agriturismi."
 banner = "grandi-aziende.jpg"

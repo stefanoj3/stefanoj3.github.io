@@ -1,7 +1,8 @@
 +++
 date = '2025-09-12'
 draft = false
-title = "SEO turismo: come far trovare la tua struttura ai viaggiatori online"
+title = "SEO turismo per hotel: più visibilità online"
+h1_title = "SEO turismo: come far trovare la tua struttura ai viaggiatori online"
 slug = "seo-turismo-strutture-ricettive"
 seoDescription = "Scopri come la SEO turismo aiuta hotel, B&B, agriturismi e aziende vinicole a farsi trovare online dai viaggiatori e aumentare prenotazioni dirette."
 banner = "seo-turismo.jpg"

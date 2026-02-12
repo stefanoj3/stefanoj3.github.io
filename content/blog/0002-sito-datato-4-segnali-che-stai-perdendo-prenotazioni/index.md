@@ -1,7 +1,8 @@
 +++
 date = '2025-07-07'
 draft = false
-title = "Hai un sito datato? 4 segnali che stai perdendo prenotazioni (senza saperlo)"
+title = "Sito hotel datato? 4 segnali che perdi prenotazioni"
+h1_title = "Hai un sito datato? 4 segnali che stai perdendo prenotazioni (senza saperlo)"
 slug = "sito-datato-4-segnali-che-stai-perdendo-prenotazioni"
 seoDescription = "Il tuo sito è datato? Scopri i 4 segnali che ti fanno perdere prenotazioni senza saperlo e come trasformare il sito della tua struttura in uno strumento che genera clienti. Ecco perché la realizzazione siti per hotel non può essere improvvisata: serve un professionista che sappia trasformare il tuo sito in un vero alleato per aumentare le prenotazioni."
 banner = "sito-datato.jpg"

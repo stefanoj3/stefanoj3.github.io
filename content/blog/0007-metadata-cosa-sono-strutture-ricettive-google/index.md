@@ -1,7 +1,8 @@
 +++
 date = '2025-08-20'
 draft = false
-title = "Metadata: cosa sono e perché aiutano la tua struttura a farsi trovare su Google"
+title = "Metadata per hotel: cosa sono e perché servono"
+h1_title = "Metadata: cosa sono e perché aiutano la tua struttura a farsi trovare su Google"
 slug = "metadata-cosa-sono-strutture-ricettive-google"
 seoDescription = "Metadata: cosa sono e come usarli per hotel, B&B e agriturismi. Scopri perché i metadati sono il tuo alleato segreto per aumentare visibilità, SEO e prenotazioni su Google."
 banner = "metadata-cosa-sono.jpg"

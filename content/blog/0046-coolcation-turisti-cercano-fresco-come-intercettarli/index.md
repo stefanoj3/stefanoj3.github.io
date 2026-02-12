@@ -1,7 +1,8 @@
 +++
 date = '2025-10-08'
 draft = false
-title = "Coolcation: perché sempre più turisti cercano il fresco (e come la tua struttura può intercettarli)"
+title = "Coolcation: attrarre turisti in cerca di fresco"
+h1_title = "Coolcation: perché sempre più turisti cercano il fresco (e come la tua struttura può intercettarli)"
 slug = "coolcation-turisti-cercano-fresco-come-intercettarli"
 seoDescription = "Scopri il trend della coolcation: sempre più turisti scelgono destinazioni fresche. Come posizionare hotel, agriturismi e B&B per attrarre chi fugge dal caldo."
 banner = "coolcation-turisti-cercano-fresco-come-intercettarli.jpg"

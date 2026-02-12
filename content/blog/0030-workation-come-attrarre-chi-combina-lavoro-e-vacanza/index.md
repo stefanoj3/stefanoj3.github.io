@@ -1,7 +1,8 @@
 +++
 date = '2025-09-19'
 draft = false
-title = "Workation: come attrarre chi combina lavoro e vacanza"
+title = "Workation per hotel: attrarre lavoro e vacanza"
+h1_title = "Workation: come attrarre chi combina lavoro e vacanza"
 slug = "workation-come-attrarre-chi-combina-lavoro-e-vacanza"
 seoDescription = "Scopri come attrarre ospiti che scelgono la workation: unire lavoro e vacanza è un trend in crescita. Idee e strategie per hotel, agriturismi e B&B."
 banner = "workation-come-attrarre.jpg"

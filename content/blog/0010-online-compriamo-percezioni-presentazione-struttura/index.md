@@ -1,7 +1,8 @@
 +++
 date = '2025-08-23'
 draft = false
-title = "Online compriamo percezioni: perché la presentazione della tua struttura è fondamentale"
+title = "Online si compra percezione: hotel e prenotazioni"
+h1_title = "Online compriamo percezioni: perché la presentazione della tua struttura è fondamentale"
 slug = "online-compriamo-percezioni-presentazione-struttura"
 seoDescription = "Online non vendi solo camere o servizi, ma percezioni: scopri perché la presentazione del tuo hotel, B&B o agriturismo è fondamentale per attrarre clienti e aumentare prenotazioni."
 banner = "percezioni.jpg"

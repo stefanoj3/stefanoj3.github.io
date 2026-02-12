@@ -1,7 +1,8 @@
 +++
 date = '2025-08-25'
 draft = false
-title = "Come usare le recensioni online per aumentare fiducia e prenotazioni dirette"
+title = "Recensioni online per aumentare prenotazioni"
+h1_title = "Come usare le recensioni online per aumentare fiducia e prenotazioni dirette"
 slug = "recensioni-online-fiducia-prenotazioni-dirette"
 seoDescription = "Scopri come sfruttare le recensioni online per hotel, B&B e agriturismi. Strategie pratiche per trasformare feedback e testimonianze in uno strumento di fiducia e prenotazioni dirette."
 banner = "recensioni-online-fiducia-prenotazioni-dirette.jpg"

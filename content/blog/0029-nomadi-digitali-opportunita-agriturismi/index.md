@@ -1,7 +1,8 @@
 +++
 date = '2025-09-18'
 draft = false
-title = "Nomadi digitali: opportunità per agriturismi e strutture in zone tranquille"
+title = "Nomadi digitali: opportunità per agriturismi"
+h1_title = "Nomadi digitali: opportunità per agriturismi e strutture in zone tranquille"
 slug = "nomadi-digitali-opportunita-agriturismi"
 seoDescription = "Scopri perché i nomadi digitali rappresentano una grande opportunità per agriturismi e strutture in zone tranquille: attrarli con comfort, autenticità e strategie digitali mirate."
 banner = "nomadi-digitali-agriturismi.jpg"

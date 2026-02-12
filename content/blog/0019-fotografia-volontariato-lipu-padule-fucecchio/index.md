@@ -1,7 +1,8 @@
 +++
 date = '2025-09-07'
 draft = false
-title = "Fotografare per la LIPU al Padule di Fucecchio: un’esperienza di volontariato che arricchisce il mio lavoro"
+title = "Fotografare per LIPU al Padule di Fucecchio"
+h1_title = "Fotografare per la LIPU al Padule di Fucecchio: un’esperienza di volontariato che arricchisce il mio lavoro"
 slug = "fotografia-volontariato-lipu-padule-fucecchio"
 seoDescription = "Il 6 settembre ho partecipato come fotografo volontario per la LIPU al Padule di Fucecchio. Un’esperienza che mi ha permesso di conoscere meglio il territorio e arricchire il mio lavoro con hotel, B&B e agriturismi."
 banner = "volontariato-fotografia-territorio.jpg"

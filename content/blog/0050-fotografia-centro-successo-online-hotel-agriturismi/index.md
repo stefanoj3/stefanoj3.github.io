@@ -1,7 +1,8 @@
 +++
 date = '2025-10-12'
 draft = false
-title = "La fotografia al centro del tuo successo online: storie da hotel e agriturismi"
+title = "Fotografia hotel: storie di successo reale"
+h1_title = "La fotografia al centro del tuo successo online: storie da hotel e agriturismi"
 slug = "fotografia-centro-successo-online-hotel-agriturismi"
 seoDescription = "Scopri come la fotografia professionale trasforma la visibilità e le prenotazioni per hotel, B&B e agriturismi: esempi reali e strategie collegate."
 banner = "fotografia-centro-successo-online-hotel-agriturismi.jpg"

@@ -1,7 +1,8 @@
 +++
 date = '2026-01-17'
 draft = false
-title = "Guida Definitiva: Strategie di Marketing Visivo per il Tuo Hotel che Funzionano!"
+title = "Marketing visivo hotel: guida pratica"
+h1_title = "Guida Definitiva: Strategie di Marketing Visivo per il Tuo Hotel che Funzionano!"
 slug = "guida-definitiva-strategie-marketing-visivo-hotel"
 seoDescription = "Scopri le strategie di marketing visivo che trasformano hotel, B&B e agriturismi: fotografia professionale, branding coeso, contenuti che convertono e casi reali di successo."
 banner = "guida-definitiva-strategie-marketing-visivo-hotel.jpg"

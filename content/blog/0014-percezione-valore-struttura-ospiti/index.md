@@ -1,7 +1,8 @@
 +++
 date = '2025-08-31'
 draft = false
-title = "Come il cliente percepisce il valore della tua struttura prima ancora di arrivare"
+title = "Come il cliente percepisce il valore del tuo hotel"
+h1_title = "Come il cliente percepisce il valore della tua struttura prima ancora di arrivare"
 slug = "percezione-valore-struttura-ospiti"
 seoDescription = "Scopri come piccoli dettagli online — foto, testi, toni e layout — influenzano la percezione del valore della tua struttura ricettiva, ancora prima che l’ospite arrivi."
 banner = "percezione-valore-struttura-ospiti.jpg"
