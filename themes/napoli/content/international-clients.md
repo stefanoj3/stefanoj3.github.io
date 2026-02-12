@@ -1,5 +1,5 @@
 +++
-title = "Hotel Photography, Marketing, Websites, Socials, Photographer for Agriturismo"
+title = "Hotel Photographer in Tuscany | Stefano Gabryel"
 linkTitle = "English 🇬🇧"
 url = "/international-clients/"
 layout = "international-clients"
