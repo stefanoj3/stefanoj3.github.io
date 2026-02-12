@@ -67,7 +67,9 @@
                     <div class="col-xs-12">
                         <h1 class="title">Stefano Gabryel</h1>
                         <p class="descr">
-                            Aiuto imprenditori nel settore dell’accoglienza (hotel, B&amp;B, agriturismi), ristorazione e del vino a far crescere il loro business, attirando più clienti grazie a una comunicazione visiva efficace e coerente su web e social.
+                            {{ with .Site.GetPage "page" "landing-fotografo-agriturismi.md" }}
+                            <a href="{{ .RelPermalink }}">Aiuto imprenditori nel settore dell’accoglienza</a> (hotel, B&amp;B, agriturismi), ristorazione e del vino a far crescere il loro business, attirando più clienti grazie a una comunicazione visiva efficace e coerente su web e social.
+                        {{ end }}
                         </p>
                         <p class="descr">
                             Attraverso lo sviluppo di campagne di marketing strategiche e mirate, supporto la crescita del tuo business aumentando il numero di clienti acquisiti e ottimizzando la monetizzazione di quelli esistenti.
@@ -170,7 +172,8 @@
                     <div class="text-center">
                         <p><strong>Per un contatto rapido mi trovi su Whatsapp</strong></p>
                         <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img style="width:250px;" src="/images/start-chat.png" alt="Inizia la chat su Whatsapp"></a>
-                        <p>Oppure</p>
+                        <div>Adesso sono <strong class="whatsapp-green">online</strong>.</div>
+                        <p><strong>Oppure</strong></p>
                     </div>
                     {{ with .Site.GetPage "page" "contatti.md" }}
                     <div class="button-wrap text-center" style="width:100%"><a href="{{ .RelPermalink }}" style="width:100%" class="a-btn-2 button">vai alla pagina contatti</a></div>

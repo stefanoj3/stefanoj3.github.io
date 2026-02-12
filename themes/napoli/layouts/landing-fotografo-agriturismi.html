@@ -13,11 +13,15 @@
                         <div class="descr">
                             Valorizzo la tua struttura con immagini che emozionano e portano più prenotazioni.
                         </div>
+                        <div class="text-center descr">
+                            <div><strong>Per un contatto rapido mi trovi su Whatsapp</strong></div>
+                            <a href="{{ .Site.Params.whatsappLink }}" target="_blank"><img style="width:250px;" src="/images/start-chat.png" alt="Inizia la chat su Whatsapp"></a>
+                            <div>Adesso sono <strong class="whatsapp-green">online</strong>.</div>
+                        </div>
+
                         {{ with .Site.GetPage "page" "contatti.md" }}
                         <div class="button-wrap text-center"><a href="{{ .RelPermalink }}" class="a-btn-2 button">Richiedi un Preventivo Gratuito</a></div>
                         {{ end }}
-                        <p>&nbsp;</p>
-                        <div class="button-wrap text-center"><a href="{{ .Site.Params.whatsappLink }}" class="a-btn-2 button"><i class="fa fa-whatsapp whatsapp-green"></i> Contattami subito su WhatsApp <i class="fa fa-whatsapp whatsapp-green"></i></a></div>
                     </div>
                 </div>
             </div>

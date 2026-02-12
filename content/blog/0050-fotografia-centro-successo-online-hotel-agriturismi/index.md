@@ -28,7 +28,7 @@ Infine, considera [perché un fotografo hotel non scatta solo foto ma crea un ve
 ## I benefici di un approccio integrato
 
 
-Affidandoti a un esperto come me – con 13 anni di background tech e passione per la fotografia – ottieni non solo immagini mozzafiato, ma un sistema che aumenta le prenotazioni dirette, migliora la reputazione online e ottimizza il ROI delle campagne. È diverso dal fai-da-te: qui c'è strategia, misurabilità e risultati concreti.
+Affidandoti a un esperto come me – con 13 anni di background tech e passione per la fotografia – [ottieni non solo immagini mozzafiato](/landing/fotografo-agriturismi/), ma un sistema che aumenta le prenotazioni dirette, migliora la reputazione online e ottimizza il ROI delle campagne. È diverso dal fai-da-te: qui c'è strategia, misurabilità e risultati concreti.
 
 Pronto a collegare la tua storia visiva a un piano che funziona?
 
