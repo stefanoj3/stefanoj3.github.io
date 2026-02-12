@@ -105,7 +105,7 @@ Quando investi in un'identità visiva completa e coerente, i benefici sono tangi
 
 ## Non è solo estetica, è strategia di business
 
-Alcuni proprietari pensano che l'identità visiva sia "roba da designer", un vezzo estetico. Ma nella mia esperienza di oltre 13 anni tra informatica, marketing e fotografia, ho visto chiaramente: **le strutture con identità visiva forte ottengono più prenotazioni, praticano tariffe più alte, e costruiscono comunità di clienti fedeli**.
+Alcuni proprietari pensano che l'identità visiva sia "roba da designer", un vezzo estetico. Ma nella mia esperienza di oltre 15 anni tra informatica, marketing e fotografia, ho visto chiaramente: **le strutture con identità visiva forte ottengono più prenotazioni, praticano tariffe più alte, e costruiscono comunità di clienti fedeli**.
 
 Non è superficialità. È il modo in cui il cervello umano funziona: riconosciamo, ricordiamo e ci fidiamo di ciò che appare coerente e curato.
 

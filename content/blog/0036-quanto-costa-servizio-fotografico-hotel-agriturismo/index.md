@@ -124,7 +124,7 @@ Marc Silber in "Advancing Your Photography" dice che **le fotografie efficaci no
 
 La differenza tra un fotografo generico e uno specializzato in hospitality non è solo tecnica. È strategica.
 
-Io porto oltre 13 anni di esperienza in tecnologia, marketing e gestione di progetti complessi. Quando fotografo una struttura, non penso solo a "fare belle foto".
+Io porto oltre 15 anni di esperienza in tecnologia, marketing e gestione di progetti complessi. Quando fotografo una struttura, non penso solo a "fare belle foto".
 
 ### Penso a:
 - Quali immagini convertono meglio sul tuo target specifico

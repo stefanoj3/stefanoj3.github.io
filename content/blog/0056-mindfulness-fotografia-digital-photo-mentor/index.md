@@ -102,7 +102,7 @@ E forse, leggendolo, riconoscerai qualcosa di te stesso.
 
 ## La fotografia si impara vedendo, non solo guardando
 
-Dopo oltre 13 anni nel mondo della tecnologia e della creazione di contenuti, ho imparato che le competenze tecniche si possono insegnare in poche ore.
+Dopo oltre 15 anni nel mondo della tecnologia e della creazione di contenuti, ho imparato che le competenze tecniche si possono insegnare in poche ore.
 
 **Vedere**, invece, richiede presenza. Richiede allenamento dell'attenzione. Richiede onestà emotiva.
 

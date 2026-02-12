@@ -28,7 +28,7 @@ Con un approccio integrato, che unisce fotografia, video, storytelling, social e
 
 ## Perché io sono la scelta giusta
 
-Con oltre 13 anni di esperienza nel settore informatico e nella gestione di progetti digitali complessi, unita a una solida esperienza in fotografia, video e marketing per strutture ricettive, offro un **profilo unico**:
+Con oltre 15 anni di esperienza nel settore informatico e nella gestione di progetti digitali complessi, unita a una solida esperienza in fotografia, video e marketing per strutture ricettive, offro un **profilo unico**:
 
 - Creo contenuti visivi coerenti che guidano la percezione dei clienti.
 - Integro foto e video in strategie digitali efficaci per web, social e campagne pubblicitarie.
