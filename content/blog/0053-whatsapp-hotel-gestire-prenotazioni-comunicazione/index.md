@@ -4,7 +4,7 @@ draft = false
 title = "WhatsApp per hotel: gestire prenotazioni"
 h1_title = "WhatsApp per hotel: come gestire prenotazioni e comunicazione dal telefono"
 slug = "whatsapp-hotel-gestire-prenotazioni-comunicazione"
-seoDescription = "Scopri come usare WhatsApp Business per hotel, B&B e agriturismi: dalla conferma prenotazione alla gestione ospiti, strategie pratiche per migliorare comunicazione e conversioni."
+seoDescription = "Come usare WhatsApp Business per hotel e B&B: gestire prenotazioni, rispondere più velocemente e aumentare conversioni."
 banner = "whatsapp-hotel-gestire-prenotazioni-comunicazione.jpg"
 +++
 

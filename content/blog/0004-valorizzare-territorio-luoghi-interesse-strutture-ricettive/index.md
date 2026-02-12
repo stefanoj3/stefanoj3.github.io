@@ -4,7 +4,7 @@ draft = false
 title = "Valorizzare il territorio per aumentare prenotazioni"
 h1_title = "Come valorizzare il territorio e i luoghi di interesse per aumentare prenotazioni e margini della tua struttura"
 slug = "valorizzare-territorio-luoghi-interesse-strutture-ricettive"
-seoDescription = "Scopri come aumentare prenotazioni e margini del tuo hotel, B&B o agriturismo valorizzando il territorio: bellezze naturali, luoghi storici e culturali, e punti logistici possono trasformare una semplice struttura in una destinazione irresistibile."
+seoDescription = "Scopri come aumentare prenotazioni e margini valorizzando il territorio del tuo hotel, B&B o agriturismo."
 banner = "valorizzare-luoghi-di-interesse.jpg"
 +++
 

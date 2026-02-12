@@ -4,7 +4,7 @@ draft = false
 title = "Coerenza colori nelle foto per hotel e B&B"
 h1_title = "Perché la coerenza dei colori nelle foto è fondamentale per la tua struttura"
 slug = "coerenza-colori-foto-strutture-ricettive"
-seoDescription = "Scopri perché uniformare i colori nelle foto è cruciale per hotel, B&B e agriturismi. Una palette visiva coerente trasmette professionalità e aumenta fiducia e prenotazioni."
+seoDescription = "Coerenza colori nelle foto per hotel: scopri come una palette uniforme aumenta professionalità, fiducia e prenotazioni."
 banner = "coerenza-colori-foto-strutture-ricettive.jpg"
 +++
 

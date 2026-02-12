@@ -4,7 +4,7 @@ draft = false
 title = "Wine tasting: attrarre turisti e winelovers"
 h1_title = "Come raccontare un’esperienza di wine tasting ed enogastronomia per attrarre turisti e winelovers"
 slug = "raccontare-wine-tasting-esperienza-enogastronomica"
-seoDescription = "Scopri come raccontare un’esperienza di wine tasting ed enogastronomia per attrarre turisti e winelovers. Fotografie, storytelling e strategie di comunicazione per aumentare visite e prenotazioni."
+seoDescription = "Scopri come raccontare un wine tasting con foto e storytelling per attrarre turisti, winelovers e aumentare prenotazioni."
 banner = "wine-tasting.jpg"
 +++
 

@@ -4,7 +4,7 @@ draft = false
 title = "Mindfulness e fotografia: cosa ho imparato"
 h1_title = "Mindfulness e fotografia: cosa ho imparato scrivendo per Digital Photo Mentor"
 slug = "mindfulness-fotografia-digital-photo-mentor"
-seoDescription = "Riflessioni su come la mindfulness ha trasformato il mio approccio alla fotografia: dall'articolo pubblicato su Digital Photo Mentor alle lezioni apprese sulla presenza e l'intenzionalità."
+seoDescription = "Mindfulness e fotografia: come la presenza ha trasformato il mio modo di vedere e scattare immagini."
 banner = "mindfulness-fotografia-digital-photo-mentor.jpg"
 +++
 

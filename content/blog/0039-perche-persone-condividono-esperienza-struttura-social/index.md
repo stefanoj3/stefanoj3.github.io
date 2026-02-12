@@ -4,7 +4,7 @@ draft = false
 title = "Perché gli ospiti condividono la tua struttura"
 h1_title = "Perché le persone condividono (o non condividono) la loro esperienza nella tua struttura"
 slug = "perche-persone-condividono-esperienza-struttura-social"
-seoDescription = "Scopri i trigger psicologici che spingono gli ospiti a condividere (o meno) la loro esperienza in hotel, B&B e agriturismi sui social. Strategie pratiche per aumentare la condivisione organica."
+seoDescription = "Scopri perché gli ospiti condividono (o no) la loro esperienza in hotel e agriturismi e come aumentare la visibilità sui social."
 banner = "perche-persone-condividono-esperienza-struttura-social.jpg"
 +++
 

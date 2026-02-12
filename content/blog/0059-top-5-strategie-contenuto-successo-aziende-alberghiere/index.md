@@ -4,7 +4,7 @@ draft = false
 title = "5 strategie di contenuto per hotel"
 h1_title = "Top 5 Strategie di Contenuto per Aumentare il Successo delle Aziende Alberghiere"
 slug = "top-5-strategie-contenuto-successo-aziende-alberghiere"
-seoDescription = "Scopri le 5 strategie di content marketing essenziali per hotel e B&B: fotografia professionale, storytelling, video, SEO e social media per aumentare prenotazioni e visibilità online."
+seoDescription = "5 strategie di content marketing per hotel che aumentano visibilità e prenotazioni dirette."
 banner = "top-5-strategie-contenuto-successo-aziende-alberghiere.jpg"
 +++
 

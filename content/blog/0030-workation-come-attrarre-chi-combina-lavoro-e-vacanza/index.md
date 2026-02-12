@@ -4,7 +4,7 @@ draft = false
 title = "Workation per hotel: attrarre lavoro e vacanza"
 h1_title = "Workation: come attrarre chi combina lavoro e vacanza"
 slug = "workation-come-attrarre-chi-combina-lavoro-e-vacanza"
-seoDescription = "Scopri come attrarre ospiti che scelgono la workation: unire lavoro e vacanza è un trend in crescita. Idee e strategie per hotel, agriturismi e B&B."
+seoDescription = "Workation per hotel: scopri come attrarre chi lavora da remoto e aumentare prenotazioni tutto l’anno."
 banner = "workation-come-attrarre.jpg"
 +++
 

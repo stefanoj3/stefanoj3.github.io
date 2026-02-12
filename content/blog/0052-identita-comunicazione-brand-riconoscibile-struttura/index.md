@@ -4,7 +4,7 @@ draft = false
 title = "Brand hotel: identità e comunicazione efficace"
 h1_title = "Identità e comunicazione: costruire un brand riconoscibile per la tua struttura"
 slug = "identita-comunicazione-brand-riconoscibile-struttura"
-seoDescription = "Guida completa su come costruire un'identità di brand forte per hotel, B&B e agriturismi: dalla visual identity alla comunicazione efficace che converte visitatori in clienti."
+seoDescription = "Come creare un brand forte per hotel, B&B e agriturismi: identità visiva, tono di voce e comunicazione che converte."
 banner = "identita-comunicazione-brand-riconoscibile-struttura.jpg"
 +++
 

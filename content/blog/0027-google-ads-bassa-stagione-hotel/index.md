@@ -4,7 +4,7 @@ draft = false
 title = "Google Ads per hotel in bassa stagione"
 h1_title = "Come usare le campagne Google Ads per riempire le camere nei periodi di bassa stagione"
 slug = "google-ads-bassa-stagione-hotel"
-seoDescription = "Scopri come usare le campagne Google Ads per riempire le camere nei periodi di bassa stagione: strategie efficaci per hotel, agriturismi e B&B."
+seoDescription = "Google Ads per hotel in bassa stagione: scopri come riempire le camere con campagne mirate e aumentare prenotazioni."
 banner = "google-ads-bassa-stagione.jpg"
 +++
 

@@ -1,9 +1,10 @@
 +++
 date = '2025-09-28'
 draft = false
-title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi (e cosa include davvero)"
+title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi"
+h1_title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi (e cosa include davvero)"
 slug = "quanto-costa-servizio-fotografico-hotel-agriturismo"
-seoDescription = "Guida completa ai costi di un servizio fotografico professionale per strutture ricettive: cosa influenza il prezzo, cosa è incluso, come valutare il preventivo giusto."
+seoDescription = "Quanto costa un servizio fotografico per hotel e agriturismi? Scopri cosa influenza il prezzo, cosa include davvero e come scegliere l’investimento giusto."
 banner = "quanto-costa-servizio-fotografico-hotel-agriturismo.jpg"
 +++
 

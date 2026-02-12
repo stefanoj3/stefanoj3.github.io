@@ -4,7 +4,7 @@ draft = false
 title = "Solo travel: hotel pronti ai viaggiatori solitari"
 h1_title = "La tua struttura è pronta per i viaggiatori solitari? Il boom del solo travel e cosa cercano"
 slug = "struttura-pronta-viaggiatori-solitari-solo-travel"
-seoDescription = "Scopri come attrarre i viaggiatori solitari: un mercato in crescita che cerca esperienze autentiche. Cosa offrire in hotel, B&B e agriturismi per intercettare il boom del solo travel."
+seoDescription = "Solo travel in crescita: scopri come attrarre viaggiatori solitari nel tuo hotel, B&B o agriturismo."
 banner = "struttura-pronta-viaggiatori-solitari-solo-travel.jpg"
 +++
 

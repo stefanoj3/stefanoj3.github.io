@@ -4,7 +4,7 @@ draft = false
 title = "Drone per hotel: quando fa la differenza"
 h1_title = "Quando il drone salva il servizio fotografico: casi reali dove lo spazio non bastava"
 slug = "drone-salva-servizio-fotografico-spazi-stretti"
-seoDescription = "Scopri come la fotografia con drone risolve problemi impossibili per hotel, agriturismi e B&B: spazi stretti, piscine circondate da muri, contesto territoriale. Caso studio reale."
+seoDescription = "Scopri quando il drone fa davvero la differenza per hotel e agriturismi: spazi stretti, piscine chiuse e contesto territoriale valorizzato."
 banner = "drone-salva-servizio-fotografico-spazi-stretti.jpg"
 +++
 

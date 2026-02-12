@@ -4,7 +4,7 @@ draft = false
 title = "Storytelling per hotel: perché funziona"
 h1_title = "Perché il cervello umano ama le storie (e come usarlo nel marketing)"
 slug = "perche-il-cervello-ama-le-storie-marketing"
-seoDescription = "Perché il cervello umano ama le storie e come usarlo nel marketing: scopri come lo storytelling influenza emozioni, memoria e decisioni d'acquisto."
+seoDescription = "Storytelling per hotel: scopri perché le storie influenzano emozioni e decisioni e aumentano fiducia e prenotazioni."
 banner = "storytelling-marketing.jpg"
 +++
 

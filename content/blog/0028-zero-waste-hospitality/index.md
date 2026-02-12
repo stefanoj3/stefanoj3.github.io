@@ -4,7 +4,7 @@ draft = false
 title = "Zero waste hospitality per hotel sostenibili"
 h1_title = "Zero waste hospitality: piccole azioni che fanno grande differenza"
 slug = "zero-waste-hospitality"
-seoDescription = "Scopri come applicare lo zero waste hospitality nella tua struttura ricettiva: piccole azioni sostenibili che fanno grande differenza per clienti e ambiente."
+seoDescription = "Zero waste hospitality: scopri come rendere il tuo hotel più sostenibile e attrarre viaggiatori attenti all’ambiente."
 banner = "zero-waste-hospitality.jpg"
 +++
 

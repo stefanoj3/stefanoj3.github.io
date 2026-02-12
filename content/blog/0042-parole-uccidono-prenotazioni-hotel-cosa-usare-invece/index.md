@@ -4,7 +4,7 @@ draft = false
 title = "10 parole che uccidono le prenotazioni"
 h1_title = "Le 10 parole che uccidono le prenotazioni (e cosa usare invece)"
 slug = "parole-uccidono-prenotazioni-hotel-cosa-usare-invece"
-seoDescription = "Scopri le 10 parole ed espressioni che fanno scappare i clienti dal tuo sito e social. Guida pratica al copywriting efficace per hotel, B&B e agriturismi."
+seoDescription = "Scopri le 10 parole che riducono le prenotazioni e come riscrivere il tuo sito per aumentare conversioni."
 banner = "parole-uccidono-prenotazioni-hotel-cosa-usare-invece.jpg"
 +++
 

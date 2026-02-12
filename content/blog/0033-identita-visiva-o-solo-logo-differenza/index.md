@@ -4,7 +4,7 @@ draft = false
 title = "Identità visiva hotel: oltre il logo"
 h1_title = "La tua struttura ha un'identità visiva o solo un logo? La differenza che fa la differenza"
 slug = "identita-visiva-o-solo-logo-differenza"
-seoDescription = "Scopri perché avere solo un logo non basta per hotel, B&B e agriturismi. L'identità visiva completa è ciò che trasforma una struttura in un brand riconoscibile e memorabile."
+seoDescription = "Un logo non basta: scopri perché un’identità visiva coerente aumenta riconoscibilità, valore percepito e prenotazioni per hotel e B&B."
 banner = "identita-visiva-o-solo-logo-differenza.jpg"
 +++
 

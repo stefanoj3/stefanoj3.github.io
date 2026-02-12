@@ -4,7 +4,7 @@ draft = false
 title = "Blog hotel: genera prenotazioni se fatto bene"
 h1_title = "Il blog della tua struttura può generare prenotazioni? Sì, ma solo se sai cosa scrivere"
 slug = "blog-struttura-genera-prenotazioni-cosa-scrivere"
-seoDescription = "Scopri perché avere un sito web con blog ottimizzato SEO è fondamentale per hotel, Hote, B&B e agriturismi: strategie keyword, contenuti che convertono e come battere la concorrenza su Google."
+seoDescription = "Blog hotel: come generare prenotazioni dirette con contenuti SEO e keyword di nicchia."
 banner = "blog-struttura-genera-prenotazioni-cosa-scrivere.jpg"
 +++
 

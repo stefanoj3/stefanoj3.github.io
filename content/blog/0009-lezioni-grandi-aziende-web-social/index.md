@@ -4,7 +4,7 @@ draft = false
 title = "Cosa ho imparato in aziende da oltre 1 miliardo"
 h1_title = "Cosa ho imparato lavorando in aziende con fatturato oltre il miliardo"
 slug = "lezioni-grandi-aziende-web-social"
-seoDescription = "Scopri le lezioni che ho imparato lavorando in aziende con fatturato annuo oltre il miliardo e come applicarle a siti web, social media e strategie digitali per hotel, B&B e agriturismi."
+seoDescription = "Lezioni dalle grandi aziende applicate a hotel e agriturismi: strategie digitali con obiettivi misurabili e risultati concreti."
 banner = "grandi-aziende.jpg"
 +++
 

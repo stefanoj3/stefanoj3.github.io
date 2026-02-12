@@ -4,7 +4,7 @@ draft = false
 title = "Cliente ideale hotel: come individuarlo"
 h1_title = "Come capire chi è davvero il tuo cliente ideale (e smettere di attrarre quello sbagliato)"
 slug = "cliente-ideale-hotel-smettere-attrarre-cliente-sbagliato"
-seoDescription = "Guida pratica per identificare il cliente ideale di hotel, B&B e agriturismi. Scopri come smettere di attrarre clienti sbagliati e aumentare profittabilità e soddisfazione."
+seoDescription = "Scopri come individuare il cliente ideale del tuo hotel o B&B e smettere di attrarre ospiti sbagliati."
 banner = "cliente-ideale-hotel-smettere-attrarre-cliente-sbagliato.jpg"
 +++
 

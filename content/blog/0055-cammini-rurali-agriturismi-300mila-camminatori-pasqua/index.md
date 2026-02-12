@@ -4,7 +4,7 @@ draft = false
 title = "Cammini rurali: opportunità per agriturismi"
 h1_title = "Cammini rurali e agriturismi: come intercettare i 300.000 camminatori della Pasqua"
 slug = "cammini-rurali-agriturismi-300mila-camminatori-pasqua"
-seoDescription = "Scopri come posizionare il tuo agriturismo per i 300.000 camminatori dei cammini rurali durante Pasqua: strategie, servizi e comunicazione per intercettare questo mercato in crescita."
+seoDescription = "Cammini rurali e agriturismi: come attrarre i camminatori e aumentare le prenotazioni lungo i percorsi."
 banner = "cammini-rurali-agriturismi-300mila-camminatori-pasqua.jpg"
 +++
 

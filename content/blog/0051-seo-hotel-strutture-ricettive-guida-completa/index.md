@@ -4,7 +4,7 @@ draft = false
 title = "SEO per hotel: guida completa in 5 mosse"
 h1_title = "SEO per hotel e strutture ricettive: la guida completa in 5 mosse"
 slug = "seo-hotel-strutture-ricettive-guida-completa"
-seoDescription = "Guida completa alla SEO per hotel, B&B e agriturismi: dalle basi del posizionamento Google alle tecniche avanzate per aumentare visibilità e prenotazioni organiche."
+seoDescription = "SEO per hotel, B&B e agriturismi: 5 mosse pratiche per aumentare visibilità su Google e prenotazioni dirette."
 banner = "seo-hotel-strutture-ricettive-guida-completa.jpg"
 +++
 

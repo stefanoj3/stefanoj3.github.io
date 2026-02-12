@@ -4,7 +4,7 @@ draft = false
 title = "3 pagine del sito hotel che Google premia"
 h1_title = "Le 3 pagine del tuo sito che nessuno legge (ma che Google premia)"
 slug = "pagine-sito-nessuno-legge-google-premia"
-seoDescription = "Scopri quali pagine del sito web per hotel, B&B e agriturismi sono ignorate dai visitatori ma premiate da Google: come ottimizzare policy, contatti e pagine di servizio per la SEO."
+seoDescription = "Le 3 pagine del sito hotel che Google premia: chi siamo, policy e contatti ottimizzati per la SEO."
 banner = "pagine-sito-nessuno-legge-google-premia.jpg"
 +++
 

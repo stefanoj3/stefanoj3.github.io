@@ -4,7 +4,7 @@ draft = false
 title = "Online si compra percezione: hotel e prenotazioni"
 h1_title = "Online compriamo percezioni: perché la presentazione della tua struttura è fondamentale"
 slug = "online-compriamo-percezioni-presentazione-struttura"
-seoDescription = "Online non vendi solo camere o servizi, ma percezioni: scopri perché la presentazione del tuo hotel, B&B o agriturismo è fondamentale per attrarre clienti e aumentare prenotazioni."
+seoDescription = "Online si compra percezione: come la presentazione del tuo hotel influenza fiducia, valore e prenotazioni."
 banner = "percezioni.jpg"
 +++
 

@@ -4,7 +4,7 @@ draft = false
 title = "Hotel su Booking: serve anche un sito?"
 h1_title = "La mia struttura è su Booking: ho davvero bisogno anche di un sito web?"
 slug = "struttura-su-booking-serve-sito-web"
-seoDescription = "Scopri perché avere un sito web proprio è fondamentale anche se sei su Booking: riduci le commissioni, costruisci identità e aumenti le prenotazioni dirette per hotel, B&B e agriturismi."
+seoDescription = "Sei su Booking? Scopri perché avere un sito web aumenta prenotazioni dirette e riduce commissioni."
 banner = "struttura-su-booking-serve-sito-web.jpg"
 +++
 

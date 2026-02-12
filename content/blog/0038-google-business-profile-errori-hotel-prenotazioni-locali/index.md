@@ -4,7 +4,7 @@ draft = false
 title = "Google Business Profile hotel: 7 errori"
 h1_title = "Google Business Profile per hotel: 7 errori che ti fanno perdere prenotazioni locali"
 slug = "google-business-profile-errori-hotel-prenotazioni-locali"
-seoDescription = "Scopri i 7 errori più comuni su Google Business Profile che fanno perdere prenotazioni a hotel, B&B e agriturismi. Guida pratica per ottimizzare la tua scheda Google."
+seoDescription = "Foto verticali o orizzontali? Scopri quale formato funziona meglio su sito web, Instagram, Facebook e Google per hotel e strutture ricettive."
 banner = "google-business-profile-errori-hotel-prenotazioni-locali.jpg"
 +++
 

@@ -4,7 +4,7 @@ draft = false
 title = "Coolcation: attrarre turisti in cerca di fresco"
 h1_title = "Coolcation: perché sempre più turisti cercano il fresco (e come la tua struttura può intercettarli)"
 slug = "coolcation-turisti-cercano-fresco-come-intercettarli"
-seoDescription = "Scopri il trend della coolcation: sempre più turisti scelgono destinazioni fresche. Come posizionare hotel, agriturismi e B&B per attrarre chi fugge dal caldo."
+seoDescription = "Coolcation: come attrarre turisti che cercano il fresco in hotel, B&B e agriturismi."
 banner = "coolcation-turisti-cercano-fresco-come-intercettarli.jpg"
 +++
 

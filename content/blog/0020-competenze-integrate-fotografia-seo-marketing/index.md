@@ -4,7 +4,7 @@ draft = false
 title = "Fotografia, SEO e marketing per hotel"
 h1_title = "Perché unire fotografia, SEO, web e marketing non è da tutti"
 slug = "competenze-integrate-fotografia-seo-marketing"
-seoDescription = "Un fotografo per hotel non basta: per promuovere una struttura servono competenze integrate in fotografia, SEO, web e marketing. Ecco perché questa combinazione è rara e potente."
+seoDescription = "Fotografia, SEO e marketing per hotel: scopri perché competenze integrate fanno la differenza per visibilità e prenotazioni."
 banner = "competenze-integrate.jpg"
 +++
 

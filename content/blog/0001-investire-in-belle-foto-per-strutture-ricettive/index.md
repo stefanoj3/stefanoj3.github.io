@@ -4,7 +4,7 @@ draft = false
 title = "Perché investire in foto professionali per hotel"
 h1_title = "Perché investire in belle foto per la tua struttura ricettiva è fondamentale"
 slug = "investire-in-belle-foto-per-strutture-ricettive"
-seoDescription = "Scopri perché investire in foto professionali per hotel, aziende vinicole, B&B e agriturismi è fondamentale: aumenta prenotazioni, valore percepito e visibilità online. L'opinione di un fotografo per hotel professionista."
+seoDescription = "Scopri perché foto professionali per hotel aumentano prenotazioni, valore percepito e visibilità online della tua struttura."
 banner = "investire-in-belle-foto.jpg"
 +++
 

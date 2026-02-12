@@ -4,7 +4,7 @@ draft = false
 title = "Vendita online agriturismo: opportunità"
 h1_title = "Vendita prodotti online dall'agriturismo: il 60% lo fa già (e tu?)"
 slug = "vendita-prodotti-online-agriturismo-60-percento"
-seoDescription = "Scopri perché il 60% degli agriturismi vende già prodotti online e come avviare un e-commerce agricolo: dalla normativa alle strategie per trasformare ospiti in clienti fedeli."
+seoDescription = "Vendita online per agriturismi: normativa, e-commerce e strategie per trasformare ospiti in clienti ricorrenti."
 banner = "vendita-prodotti-online-agriturismo-60-percento.jpg"
 +++
 

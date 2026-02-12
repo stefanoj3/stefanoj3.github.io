@@ -4,7 +4,7 @@ draft = false
 title = "Aumentare prenotazioni dirette hotel"
 h1_title = "Come aumentare le prenotazioni dirette del tuo hotel senza dipendere da Booking"
 slug = "aumentare-prenotazioni-dirette-hotel-senza-booking"
-seoDescription = "Scopri strategie concrete per aumentare le prenotazioni dirette del tuo hotel, B&B o agriturismo riducendo la dipendenza da Booking e OTA: risparmia commissioni e costruisci relazioni con i clienti."
+seoDescription = "Strategie per aumentare le prenotazioni dirette di hotel e B&B e ridurre la dipendenza da Booking."
 banner = "aumentare-prenotazioni-dirette-hotel-senza-booking.jpg"
 +++
 

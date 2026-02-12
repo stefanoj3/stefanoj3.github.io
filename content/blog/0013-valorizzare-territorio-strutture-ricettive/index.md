@@ -4,7 +4,7 @@ draft = false
 title = "Valorizzare il territorio per hotel e agriturismi"
 h1_title = "Valorizzare il territorio: un'opportunità per hotel, B&B e agriturismi"
 slug = "valorizzare-territorio-strutture-ricettive"
-seoDescription = "Scopri come valorizzare il territorio intorno alla tua struttura ricettiva per attrarre più clienti. Strategie pratiche per raccontare storia, arte e cultura locali e aumentare prenotazioni."
+seoDescription = "Scopri come valorizzare il territorio per hotel e agriturismi e aumentare visibilità, interesse e prenotazioni dirette."
 banner = "valorizzare-territorio-strutture-ricettive.jpg"
 +++
 

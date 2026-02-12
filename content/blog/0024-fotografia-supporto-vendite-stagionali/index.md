@@ -4,7 +4,7 @@ draft = false
 title = "Fotografia per aumentare le vendite stagionali"
 h1_title = "Come la fotografia può supportare le vendite stagionali"
 slug = "fotografia-supporto-vendite-stagionali"
-seoDescription = "Scopri come la fotografia può supportare le vendite stagionali di hotel, B&B, agriturismi e aziende vinicole, aumentando prenotazioni e interesse dei clienti nei momenti chiave dell'anno."
+seoDescription = "Fotografia per vendite stagionali: scopri come hotel e agriturismi possono aumentare prenotazioni con immagini emozionali."
 banner = "fotografia-vendite-stagionali.jpg"
 +++
 

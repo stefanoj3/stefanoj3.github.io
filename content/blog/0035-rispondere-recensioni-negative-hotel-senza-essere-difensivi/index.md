@@ -1,9 +1,10 @@
 +++
 date = '2025-09-25'
 draft = false
-title = "Come rispondere alle recensioni negative senza sembrare sulla difensiva (con esempi concreti)"
+title = "Come rispondere alle recensioni negative senza sembrare sulla difensiva"
+h1_title = "Come rispondere alle recensioni negative senza sembrare sulla difensiva (con esempi concreti)"
 slug = "rispondere-recensioni-negative-hotel-senza-essere-difensivi"
-seoDescription = "Guida pratica per gestire recensioni negative di hotel, B&B e agriturismi: esempi concreti, errori da evitare e strategie efficaci che trasformano critiche in opportunità."
+seoDescription = "Guida pratica per rispondere alle recensioni negative di hotel e B&B: esempi concreti, errori da evitare e strategie per trasformare le critiche in opportunità."
 banner = "rispondere-recensioni-negative-hotel-senza-essere-difensivi.jpg"
 +++
 

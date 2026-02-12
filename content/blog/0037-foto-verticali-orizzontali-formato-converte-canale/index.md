@@ -4,7 +4,7 @@ draft = false
 title = "Foto verticali o orizzontali? Cosa converte di più"
 h1_title = "Foto verticali vs orizzontali: quale formato converte di più per ogni canale"
 slug = "foto-verticali-orizzontali-formato-converte-canale"
-seoDescription = "Scopri quale formato fotografico (verticale, orizzontale, quadrato) converte meglio per sito web, Instagram, Facebook e altri canali. Guida pratica per hotel e strutture ricettive."
+seoDescription = "Foto verticali o orizzontali? Scopri quale formato converte di più su sito web, Instagram, Facebook, Google e Ads per hotel e strutture ricettive."
 banner = "foto-verticali-orizzontali-formato-converte-canale.jpg"
 +++
 

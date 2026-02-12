@@ -4,7 +4,7 @@ draft = false
 title = "Nomadi digitali: opportunità per agriturismi"
 h1_title = "Nomadi digitali: opportunità per agriturismi e strutture in zone tranquille"
 slug = "nomadi-digitali-opportunita-agriturismi"
-seoDescription = "Scopri perché i nomadi digitali rappresentano una grande opportunità per agriturismi e strutture in zone tranquille: attrarli con comfort, autenticità e strategie digitali mirate."
+seoDescription = "Nomadi digitali e agriturismi: scopri come attrarre remote worker e aumentare prenotazioni anche in bassa stagione."
 banner = "nomadi-digitali-agriturismi.jpg"
 +++
 

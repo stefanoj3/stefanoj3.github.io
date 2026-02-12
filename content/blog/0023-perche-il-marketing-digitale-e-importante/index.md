@@ -4,7 +4,7 @@ draft = false
 title = "Marketing digitale per hotel e aziende vinicole"
 h1_title = "Perché il marketing digitale è importante per hotel, B&B e aziende vinicole"
 slug = "perche-il-marketing-digitale-e-importante"
-seoDescription = "Perché il marketing digitale è importante: scopri come strategie online, social, foto e video professionali aiutano hotel, B&B e aziende vinicole a crescere e aumentare prenotazioni."
+seoDescription = "Marketing digitale per hotel e aziende vinicole: scopri come aumentare visibilità, clienti e prenotazioni online."
 banner = "marketing-digitale-importanza.jpg"
 +++
 

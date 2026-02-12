@@ -4,7 +4,7 @@ draft = false
 title = "Social media per hotel: errori e soluzioni"
 h1_title = "Social media per strutture ricettive: errori comuni e soluzioni efficaci"
 slug = "social-media-strutture-ricettive-errori-soluzioni"
-seoDescription = "Scopri come usare i social media per hotel, B&B e agriturismi evitando gli errori più comuni. Strategie pratiche e soluzioni per aumentare visibilità e prenotazioni. L'importanza di lavorare con un esperto in social media marketing per hotel, B&B, agriturismi e aziende vinicole."
+seoDescription = "Social media per hotel: evita errori comuni e scopri strategie efficaci per aumentare visibilità e prenotazioni."
 banner = "social-media-marketing.jpg"
 +++
 
