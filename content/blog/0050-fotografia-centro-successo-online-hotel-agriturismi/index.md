@@ -19,11 +19,11 @@ Senza una base fotografica forte, anche le migliori strategie di marketing cadon
 
 ## Collegando i puntini: da foto a strategie vincenti
 
-La buona notizia? La fotografia è il filo conduttore che lega tutto. Prendi, ad esempio, come le [immagini sbagliate abbassano il prezzo percepito della tua struttura](https://stefanogabryel.it/blog/immagini-sbagliate-prezzo-percepito-struttura): qui esploro come foto mediocri svalutano l'offerta, spingendo i clienti a negoziare tariffe inferiori.
+La buona notizia? La fotografia è il filo conduttore che lega tutto. Prendi, ad esempio, come le [immagini sbagliate abbassano il prezzo percepito della tua struttura](/blog/immagini-sbagliate-abbassano-prezzo-percepito-struttura/): qui esploro come foto mediocri svalutano l'offerta, spingendo i clienti a negoziare tariffe inferiori.
 
-E non fermiamoci qui: la coerenza visiva amplifica l'impatto. Nel post su [la coerenza dei colori nelle foto è fondamentale per la tua struttura](https://stefanogabryel.it/blog/coerenza-colori-foto-struttura), spiego come un palette uniforme rafforzi il brand, legandosi a [la tua struttura ha un'identità visiva o solo un logo?](https://stefanogabryel.it/blog/identita-visiva-o-solo-logo-struttura). Insieme, questi elementi creano un ecosistema: foto che non solo attirano, ma convertono, integrandosi con SEO locale e social per un crescita misurabile.
+E non fermiamoci qui: la coerenza visiva amplifica l'impatto. Nel post su [la coerenza dei colori nelle foto è fondamentale per la tua struttura](/blog/coerenza-colori-foto-strutture-ricettive/), spiego come un palette uniforme rafforzi il brand, legandosi a [la tua struttura ha un'identità visiva o solo un logo?](/blog/identita-visiva-o-solo-logo-differenza/). Insieme, questi elementi creano un ecosistema: foto che non solo attirano, ma convertono, integrandosi con SEO locale e social per un crescita misurabile.
 
-Infine, considera [perché un fotografo hotel non scatta solo foto ma crea un vero strumento di marketing](https://stefanogabryel.it/blog/fotografo-hotel-crea-strumento-marketing): qui vedo la fotografia come leva strategica, che unita alle altre, trasforma un semplice shooting in un piano di visibilità a 360 gradi.
+Infine, considera [perché un fotografo hotel non scatta solo foto ma crea un vero strumento di marketing](/blog/fotografo-hotel-strumento-marketing/): qui vedo la fotografia come leva strategica, che unita alle altre, trasforma un semplice shooting in un piano di visibilità a 360 gradi.
 
 ## I benefici di un approccio integrato
 
