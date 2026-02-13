@@ -56,6 +56,8 @@ Un'identità visiva completa include:
 
 Michael Langford nel "Nuovo trattato di fotografia moderna" sottolinea che **la coerenza stilistica è ciò che distingue un professionista da un dilettante**. Nel branding vale lo stesso principio: la coerenza è ciò che distingue un brand forte da una presenza confusa.
 
+> **Approfondimento:** Un'identità visiva forte si costruisce anche attraverso fotografie coerenti e strategiche. La fotografia professionale non è solo "belle immagini", ma parte integrante del tuo brand. Ho esplorato questo concetto in dettaglio in [La fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
+
 ## Perché nel turismo l'identità visiva conta ancora di più
 
 Nel settore dell'ospitalità, il cliente non può provare il tuo prodotto prima di acquistarlo. Non può visitare le camere, assaggiare la colazione, sentire l'atmosfera. **Tutto ciò che ha per decidere è la tua immagine.**

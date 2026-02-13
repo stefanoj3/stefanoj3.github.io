@@ -69,6 +69,10 @@ Dopo aver inserito JSON-LD con informazioni su camere, servizi e recensioni, il 
 Il JSON-LD non è solo un dettaglio tecnico: è **un vero e proprio alleato digitale** che permette ai motori di ricerca di comprendere la tua struttura, migliorare la tua visibilità e convertire curiosità in prenotazioni.  
 Strutturare correttamente i dati significa anticipare le domande degli utenti e facilitare la loro scelta, prima ancora che visitino il sito.
 
----
+Il JSON-LD aiuta Google a comprendere meglio i tuoi contenuti, ma senza foto professionali di qualità da indicizzare, l'effetto è limitato.
+La combinazione di ottimizzazione tecnica e contenuti visuali strategici crea il vero vantaggio competitivo.
+
+Esploro questo approccio integrato in [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
+
 
 {{< parliamone title="Vuoi rendere la tua struttura più visibile su Google e AI?" text="posso aiutarti a implementare JSON-LD e dati strutturati per far emergere la tua struttura nelle ricerche e aumentare le prenotazioni dirette." >}}

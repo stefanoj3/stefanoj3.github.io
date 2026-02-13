@@ -27,7 +27,10 @@ La percezione visiva conta più di quanto si pensi: anche se la struttura è imp
 3. **Guida le emozioni**  
    I colori influenzano l’umore: toni caldi trasmettono accoglienza e intimità, toni freddi comunicano eleganza e calma. Usare sempre lo stesso registro aiuta a raccontare la tua identità.
 
----
+
+La coerenza cromatica è un tassello essenziale, ma diventa davvero efficace quando si integra in una strategia visiva completa.
+
+Per capire come palette colori, fotografia professionale e marketing digitale si sostengono a vicenda, leggi [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
 
 ## L’errore più comune
 

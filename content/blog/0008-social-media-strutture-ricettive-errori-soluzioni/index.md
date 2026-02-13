@@ -53,7 +53,11 @@ Solo testi o foto statiche non bastano più. Video, reel e storie hanno oggi un 
 
 **Soluzione:** investi in contenuti multimediali di qualità. Brevi video che mostrano il tuo agriturismo al mattino, o una passeggiata per il centro storico, possono catturare molto più di un semplice post fotografico.
 
----
+
+Evitare questi errori è importante, ma non basta: serve una strategia visiva completa che leghi social media, fotografia professionale e identità di brand.
+I social sono uno dei canali, non l'unico.
+
+Ho dedicato un articolo al quadro completo: [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
 
 ## Un esempio concreto
 

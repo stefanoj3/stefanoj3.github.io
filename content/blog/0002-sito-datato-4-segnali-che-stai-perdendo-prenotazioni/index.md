@@ -56,7 +56,11 @@ Non parlano ai clienti, non trasmettono emozioni e non rispondono alle loro esig
 
 In più, se non hai una strategia di marketing digitale (SEO, social, newsletter), il sito rimane una **pagina ferma** che non porta traffico né prenotazioni.
 
----
+
+Rinnovare il sito è fondamentale, ma serve anche ripensare la strategia fotografica.
+Un sito nuovo con foto vecchie o mediocri è come una Ferrari con gomme consumate: sprecato.
+
+Per capire come sito, foto e marketing devono evolvere insieme, leggi [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
 
 ## La verità è questa
 

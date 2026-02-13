@@ -42,6 +42,9 @@ Dopo aver ottimizzato i metadati con frasi come “Agriturismo in Toscana con pi
 
 I metadati sono come il **biglietto da visita digitale** del tuo sito. Spesso sottovalutati, ma quando sono curati in modo strategico ti permettono di scalare posizioni, attirare più visitatori qualificati e, soprattutto, aumentare prenotazioni dirette.
 
+I metadata ottimizzati sulle immagini sono cruciali, ma funzionano al meglio quando le foto stesse sono professionali e strategicamente pensate.
+L'ottimizzazione tecnica senza qualità visiva è tempo sprecato.
 
+Ho approfondito come unire qualità fotografica e SEO tecnico in [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
 
 {{< parliamone title="Vuoi far emergere la tua struttura su Google grazie ai metadati?" text="scopri insieme a me come ottimizzare i metadati del tuo sito per trasformarli nel tuo alleato segreto su Google e attirare più ospiti nella tua struttura." >}}

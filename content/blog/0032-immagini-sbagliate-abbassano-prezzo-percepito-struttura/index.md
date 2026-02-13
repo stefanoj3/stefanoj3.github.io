@@ -34,6 +34,9 @@ Le conseguenze di immagini inadeguate vanno ben oltre l'estetica:
 
 Michael Langford nel "Nuovo trattato di fotografia moderna" spiega che **una fotografia tecnicamente scorretta o mal composta distrae l'osservatore dal soggetto**. Nel tuo caso, distrae dal valore reale della tua struttura, facendo concentrare il cliente solo sul prezzo.
 
+Questo problema non esiste in isolamento: le immagini sbagliate sono solo un sintomo di una strategia visiva debole o assente.
+Ho dedicato un articolo completo a come costruire un approccio integrato dove fotografia, identità visiva e marketing lavorano insieme: [La fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
+
 ## Perché succede: la psicologia del prezzo percepito
 
 Il cervello umano fa associazioni rapidissime. Quando vediamo qualcosa di mal presentato, inconsciamente gli attribuiamo minor valore. È un meccanismo automatico.

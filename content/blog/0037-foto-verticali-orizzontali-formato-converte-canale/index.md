@@ -210,6 +210,11 @@ Una strategia visiva professionale per una struttura ricettiva include:
 
 Questo approccio viene dalla mia esperienza combinata: anni di sviluppo web mi hanno insegnato l'importanza dei formati tecnici, la fotografia mi ha dato l'occhio per la composizione adattabile, il marketing mi ha mostrato quali formati convertono dove.
 
+Scegliere i formati giusti è cruciale, ma è solo una parte della strategia fotografica completa.
+Oltre al formato, conta la qualità, la coerenza visiva, l'integrazione con il resto della comunicazione.
+
+Per scoprire come tutti questi elementi si incastrano, leggi [la fotografia al centro del tuo successo online](/blog/fotografia-centro-successo-online-hotel-agriturismi/).
+
 ## Azione pratica: l'audit dei tuoi formati
 
 Fai questo esercizio oggi:
