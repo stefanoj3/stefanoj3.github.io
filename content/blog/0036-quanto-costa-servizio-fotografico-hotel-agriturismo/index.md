@@ -1,5 +1,6 @@
 +++
 date = '2025-09-28'
+lastmod = '2026-03-13'
 draft = false
 title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi"
 h1_title = "Quanto costa un servizio fotografico per hotel, B&B e agriturismi (e cosa include davvero)"
@@ -10,7 +11,8 @@ banner = "quanto-costa-servizio-fotografico-hotel-agriturismo.jpg"
 
 "Quanto costa un servizio fotografico per la mia struttura?"
 
-È la domanda che ricevo più spesso. E la risposta onesta è: **dipende**. Ma non nel senso evasivo che probabilmente ti aspetti. Dipende da fattori concreti e misurabili che fanno la differenza tra un investimento di 500€ e uno di 5.000€.
+È la domanda che ricevo più spesso. E la risposta onesta è: **dipende**. Ma non nel senso evasivo che probabilmente ti aspetti.
+Dipende da fattori concreti e misurabili che fanno la differenza tra un investimento di 500€ e uno di 5.000€.
 
 Lascia che ti spieghi esattamente cosa influenza il costo, cosa dovresti aspettarti a ogni livello di prezzo, e come valutare se un preventivo è giusto per le tue esigenze.
 
@@ -134,6 +136,16 @@ Io porto oltre 15 anni di esperienza in tecnologia, marketing e gestione di prog
 - Come costruire un'identità visiva coerente che rafforza il brand
 
 Non vendo solo fotografie. Offro uno strumento di business che aumenta prenotazioni e fatturato.
+
+## E gli spazi esterni? Qui molti sbagliano tutto
+
+Un aspetto che vedo spesso sottovalutato è la fotografia degli spazi esterni.
+
+Molti servizi fotografici includono anche gli esterni… ma senza una strategia precisa sulla luce e sugli orari, il risultato può essere deludente, anche con un buon fotografo.
+
+Ho approfondito questo tema in una guida dedicata, dove spiego perché gli esterni sono uno degli elementi più difficili da fotografare correttamente (e come farlo nel modo giusto):
+
+👉 [Quanto costa un servizio fotografico esterno (e cosa cambia davvero nel risultato)](/blog/costi-servizio-fotografico-esterno/)
 
 ## L'investimento giusto per la tua struttura
 

@@ -1,0 +1,21 @@
+<div class="container clearfix no-padd">
+    <div class="row gallery-single margin-lg-10b margin-xs-0b">
+        <div class="izotope-container">
+            <div class="grid-sizer"></div>
+            {{/* Find all image resources within a 'gallery' subfolder of the current page bundle */}}
+            {{ $galleryImages := .Page.Resources.Match "gallery/**" }}
+            {{ if $galleryImages }}
+            {{/* Loop through each image found in the 'gallery' folder */}}
+            {{ range $index, $image := $galleryImages }}
+                    {{ $image := .Fill "788X518 webp" }}
+                <div class="col-md-3 col-xs-12 col-sm-6 margin-lg-30b item-single">
+                    <a href="{{ .RelPermalink }}" class="gallery-item" title="{{ replace (path.BaseName .Name) "-" " " }}">
+                        <img src="{{ $image.RelPermalink }}" loading="lazy" class="s-img-switch" alt="{{ replace (path.BaseName .Name) "-" " " }}">
+
+                    </a>
+                </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</div>

@@ -47,6 +47,9 @@
                     <time datetime="{{ .Date.Format "2006/01/02" }}">{{ .Date.Format "02/01/2006" }}</time>
                 </div>
                 <h1 class="title">{{ .Params.h1_title }}</h1>
+                {{ if ne .Lastmod .Date }}
+                <p><strong>Ultimo Aggiornamento:</strong> {{ .Lastmod.Format "02-01-2006" }}</p>
+                {{ end }}
 
                 <section>
                     <div class="single-content text-left" style="padding:10px">
