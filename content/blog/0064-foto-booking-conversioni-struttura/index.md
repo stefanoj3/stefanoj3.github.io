@@ -80,8 +80,6 @@ far dire all’utente → “ok, so cosa aspettarmi”
 
 ## Esempio concreto
 
-_(inserisci gallery)_
-
 {{< blog-gallery >}}
 
 Queste immagini funzionano perché:
