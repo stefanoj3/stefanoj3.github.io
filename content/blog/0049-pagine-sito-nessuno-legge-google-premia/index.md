@@ -1,5 +1,6 @@
 +++
 date = '2025-10-11'
+lastmod = '2026-03-23'
 draft = false
 title = "3 pagine del sito hotel che Google premia"
 h1_title = "Le 3 pagine del tuo sito che nessuno legge (ma che Google premia)"
@@ -105,6 +106,8 @@ Smetti di pensare che alcune pagine siano "di serie B". Ogni pagina del tuo sito
 - **Mantieni aggiornate le informazioni:** policy vecchie o numeri sbagliati danneggiano la credibilità.
 
 Un sito completo, ben strutturato e curato in ogni dettaglio sale nelle ricerche. Non per magia, ma perché Google lo considera più affidabile dei competitor.
+
+Se stai partendo da zero o vuoi rifare il tuo sito, [scopri come costruisco siti web ottimizzati per Google](/servizi/sviluppo-siti-web/) fin dalla prima pagina — non solo le principali.
 
 ## I vantaggi concreti di ottimizzare queste pagine
 

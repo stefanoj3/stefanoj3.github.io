@@ -135,7 +135,10 @@
             <div class="simple-details">
                 <div class="content">
                     <h3 class="title small-title">Servizi Completi e Integrati</h3>
-                    <div class="text"><b>Fotografia, video, social media, siti web e storytelling</b>: un unico referente che assicura coerenza e qualità in ogni contenuto.</div>
+                    {{ with .Site.GetPage "page" "servizi-sviluppo-siti-web.md" }}
+                    <div class="text"><b>Fotografia, video, social media, <a href="{{ .RelPermalink }}">siti web</a> e storytelling</b>: un unico referente che assicura coerenza e qualità in ogni contenuto.</div>
+                    {{ end }}
+
                 </div>
             </div>
         </div>

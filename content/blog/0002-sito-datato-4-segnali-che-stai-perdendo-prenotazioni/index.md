@@ -1,5 +1,6 @@
 +++
 date = '2025-07-07'
+lastmod = '2026-03-23'
 draft = false
 title = "Sito hotel datato? 4 segnali che perdi prenotazioni"
 h1_title = "Hai un sito datato? 4 segnali che stai perdendo prenotazioni (senza saperlo)"
@@ -79,5 +80,7 @@ Aggiornare il tuo sito non significa solo dargli una grafica nuova, ma **trasfor
 - Testi e strategie di marketing pensati per aumentare conversioni e prenotazioni.
 
 Ecco perché affidarsi a un esperto nella **realizzazione siti per hotel** è la scelta giusta per valorizzare la tua struttura e ottenere più prenotazioni dirette.
+
+Vuoi capire come funziona il processo? [Scopri come sviluppo siti web su misura](/servizi/sviluppo-siti-web/): dal design alle foto, fino alla strategia SEO.
 
 {{< parliamone title="Vuoi trasformare il tuo sito in uno strumento che genera prenotazioni?" text="analizzerò il tuo sito e ti mostrerò come trasformarlo in un alleato strategico per aumentare prenotazioni, visibilità e margini." >}}

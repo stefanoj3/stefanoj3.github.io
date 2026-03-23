@@ -1,5 +1,6 @@
 +++
 date = '2025-10-07'
+lastmod = '2026-03-23'
 draft = false
 title = "Hotel su Booking: serve anche un sito?"
 h1_title = "La mia struttura è su Booking: ho davvero bisogno anche di un sito web?"
@@ -43,6 +44,8 @@ Il sito web non sostituisce Booking, lo affianca. Diventa la tua **casa digitale
 - **Costruisci fiducia:** un sito curato trasmette professionalità e solidità.
 
 Come dice Seth Godin ne "La mucca viola": **essere notati in un mondo affollato significa differenziarsi**. Su Booking sei uguale agli altri. Sul tuo sito sei unico.
+
+Vuoi capire come si costruisce un sito che fa davvero questo lavoro? [Scopri come sviluppo siti web su misura](/servizi/sviluppo-siti-web/) per strutture ricettive e non solo.
 
 ## I vantaggi concreti di avere un sito proprio
 

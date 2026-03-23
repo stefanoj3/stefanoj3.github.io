@@ -1,5 +1,5 @@
 {{ define "head-meta" }}
-<meta name="description" content="Stefano Gabryel Fotografo in Toscana offre servizi professionali di fotografia e video per strutture a Pistoia, Pisa, Lucca, Firenze, Livorno, Grosseto, Arezzo, Siena e Prato. Realizziamo servizi fotografici e video emozionali, siti web su misura, gestione social e campagne marketing mirate per valorizzare la tua impresa con un’immagine coerente e vincente.">
+<meta name="description" content="Fotografo professionista in Toscana. Foto, video, siti web e marketing per valorizzare la tua impresa. Pistoia, Lucca, Firenze e tutta la Toscana.">
 
 <script type="application/ld+json">
     {
@@ -138,7 +138,10 @@
 
                 <div class="titles">
                     <div class="text-center"><i class="fa fa-globe big-icon"></i></div>
-                    <h2 class="title">Sito web su misura</h2>
+                    {{ with .Site.GetPage "page" "servizi-sviluppo-siti-web.md" }}
+                    <a href="{{ .RelPermalink }}"><h2 class="title">Sito web su misura</h2></a>
+                    {{ end }}
+
                     <p><b>Cosa?</b> Un sito che riflette l’identità della tua struttura e accompagna il cliente dalla scoperta alla prenotazione, con la possibilità di ampliarlo aggiungendo e-commerce, form di prenotazione e altro.</p>
                     <p><b>Per chi?</b> Per chi vuole avere una vetrina online professionale e funzionale.</p>
                     <p><b>Include:</b> Design personalizzato, ottimizzazione SEO di base, integrazione moduli di prenotazione.</p>
