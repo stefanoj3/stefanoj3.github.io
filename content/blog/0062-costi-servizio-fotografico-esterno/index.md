@@ -4,7 +4,7 @@ draft = false
 title = "Servizio fotografico esterno: costi e risultati"
 h1_title = "Quanto costa un servizio fotografico esterno (e perché il risultato dipende da come viene fatto)"
 slug = "costi-servizio-fotografico-esterno"
-seoDescription = "Scopri i costi di un servizio fotografico esterno e perché la qualità degli scatti può cambiare il risultato finale."
+seoDescription = "Scopri quanto costa un servizio fotografico esterno e come la luce giusta può trasformare hotel, Airbnb e ristoranti in prenotazioni concrete."
 banner = "costi-servizio-fotografico-esterno.jpg"
 +++
 
